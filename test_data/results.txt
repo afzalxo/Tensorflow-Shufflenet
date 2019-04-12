@@ -1,0 +1,1242 @@
+1.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999384
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999384), ('n02841315 binoculars, field glasses, opera glasses', 6.162276843877118e-14), ('n03065424 coil, spiral, volute, whorl, helix', 3.4687227240711283e-34), ('n04554684 washer, automatic washer, washing machine', 9.441962805596293e-35), ('n02974003 car wheel', 5.983814719240496e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999412
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999412), ('n02841315 binoculars, field glasses, opera glasses', 5.873479273218398e-14), ('n03065424 coil, spiral, volute, whorl, helix', 3.492303527630363e-34), ('n04554684 washer, automatic washer, washing machine', 9.902380666693034e-35), ('n02974003 car wheel', 5.771310180771463e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999414
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999414), ('n02841315 binoculars, field glasses, opera glasses', 5.87320712552408e-14), ('n03065424 coil, spiral, volute, whorl, helix', 3.4923498617680098e-34), ('n04554684 washer, automatic washer, washing machine', 9.90270338205494e-35), ('n02974003 car wheel', 5.771477307119183e-35)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n03598930 jigsaw puzzle 0.9958787605600874
+Top5: [('n03598930 jigsaw puzzle', 0.9958787605600874), ('n03944341 pinwheel', 0.000362272532997698), ('n03291819 envelope', 0.00031634382204844116), ('n03188531 diaper, nappy, napkin', 0.00017853791580062814), ('n02883205 bow tie, bow-tie, bowtie', 0.00017006005095725985)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n03598930 jigsaw puzzle 0.995829276913349
+Top5: [('n03598930 jigsaw puzzle', 0.995829276913349), ('n03944341 pinwheel', 0.0003693412621272691), ('n03291819 envelope', 0.00031428044811850493), ('n03188531 diaper, nappy, napkin', 0.00018333562129759138), ('n02883205 bow tie, bow-tie, bowtie', 0.0001762426482666258)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n03598930 jigsaw puzzle 0.9958294433928524
+Top5: [('n03598930 jigsaw puzzle', 0.9958294433928524), ('n03944341 pinwheel', 0.0003693270278728141), ('n03291819 envelope', 0.0003142680899028604), ('n03188531 diaper, nappy, napkin', 0.00018332584739722145), ('n02883205 bow tie, bow-tie, bowtie', 0.00017623482749053277)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n03598930 jigsaw puzzle 0.9956199859434197
+Top5: [('n03598930 jigsaw puzzle', 0.9956199859434197), ('n03291819 envelope', 0.00030283760095797487), ('n03908618 pencil box, pencil case', 0.000246330005326241), ('n03188531 diaper, nappy, napkin', 0.0002347107762225828), ('n04033995 quilt, comforter, comfort, puff', 0.00020585843968150242)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n03598930 jigsaw puzzle 0.9956065452459539
+Top5: [('n03598930 jigsaw puzzle', 0.9956065452459539), ('n03291819 envelope', 0.0003019644826892346), ('n03908618 pencil box, pencil case', 0.00024191592400318475), ('n03188531 diaper, nappy, napkin', 0.00023518937474328506), ('n04033995 quilt, comforter, comfort, puff', 0.00020346964356552326)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n03598930 jigsaw puzzle 0.9956067036018017
+Top5: [('n03598930 jigsaw puzzle', 0.9956067036018017), ('n03291819 envelope', 0.0003019527728655645), ('n03908618 pencil box, pencil case', 0.00024190251920728361), ('n03188531 diaper, nappy, napkin', 0.0002351775636427439), ('n04033995 quilt, comforter, comfort, puff', 0.0002034627736512832)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n03598930 jigsaw puzzle 0.9959241419310656
+Top5: [('n03598930 jigsaw puzzle', 0.9959241419310656), ('n03291819 envelope', 0.0002874255416605533), ('n03908618 pencil box, pencil case', 0.00022994175492264618), ('n03188531 diaper, nappy, napkin', 0.00021782252787697418), ('n04033995 quilt, comforter, comfort, puff', 0.0001875222065888078)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n03598930 jigsaw puzzle 0.9959139800604186
+Top5: [('n03598930 jigsaw puzzle', 0.9959139800604186), ('n03291819 envelope', 0.00028725605561095985), ('n03908618 pencil box, pencil case', 0.00022549246163190828), ('n03188531 diaper, nappy, napkin', 0.00021818545062745446), ('n04033995 quilt, comforter, comfort, puff', 0.00018459428720341613)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n03598930 jigsaw puzzle 0.9959140556629937
+Top5: [('n03598930 jigsaw puzzle', 0.9959140556629937), ('n03291819 envelope', 0.00028725062933383745), ('n03908618 pencil box, pencil case', 0.00022548435895537657), ('n03188531 diaper, nappy, napkin', 0.0002181797645817023), ('n04033995 quilt, comforter, comfort, puff', 0.0001845925756647826)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n03598930 jigsaw puzzle 0.9959376282005842
+Top5: [('n03598930 jigsaw puzzle', 0.9959376282005842), ('n03291819 envelope', 0.00028574546381352644), ('n03908618 pencil box, pencil case', 0.0002287522800998048), ('n03188531 diaper, nappy, napkin', 0.0002162883351480142), ('n04033995 quilt, comforter, comfort, puff', 0.00018728911172181638)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n03598930 jigsaw puzzle 0.9959139498687645
+Top5: [('n03598930 jigsaw puzzle', 0.9959139498687645), ('n03291819 envelope', 0.0002872587895177659), ('n03908618 pencil box, pencil case', 0.00022549637862774602), ('n03188531 diaper, nappy, napkin', 0.00021818814800645108), ('n04033995 quilt, comforter, comfort, puff', 0.0001845959448606052)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n03598930 jigsaw puzzle 0.9959140401433128
+Top5: [('n03598930 jigsaw puzzle', 0.9959140401433128), ('n03291819 envelope', 0.0002872513450228385), ('n03908618 pencil box, pencil case', 0.00022548543338672442), ('n03188531 diaper, nappy, napkin', 0.00021818139622861406), ('n04033995 quilt, comforter, comfort, puff', 0.00018459399799188028)]
+
+2.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.7884743487345386e-21), ('n04554684 washer, automatic washer, washing machine', 4.806787071054182e-34), ('n03814906 necklace', 1.0737795428512607e-35), ('n02974003 car wheel', 1.0330980637720408e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.746127310865506e-21), ('n04554684 washer, automatic washer, washing machine', 4.727343963923466e-34), ('n03814906 necklace', 1.0988934053216435e-35), ('n02974003 car wheel', 1.0165079916689213e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.7462916640238776e-21), ('n04554684 washer, automatic washer, washing machine', 4.7274147593967455e-34), ('n03814906 necklace', 1.098805033493503e-35), ('n02974003 car wheel', 1.0164970123795164e-35)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02112137 chow, chow chow 0.17932979804462706
+Top5: [('n02112137 chow, chow chow', 0.17932979804462706), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.06438291484856047), ('n02099601 golden retriever', 0.06284637588783425), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.04423481241567135), ('n02106030 collie', 0.0406683706671884)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02112137 chow, chow chow 0.17923154373908196
+Top5: [('n02112137 chow, chow chow', 0.17923154373908196), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.06457083402608249), ('n02099601 golden retriever', 0.06281904550640059), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.04426378917798985), ('n02106030 collie', 0.04082957911987335)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02112137 chow, chow chow 0.17923413613697728
+Top5: [('n02112137 chow, chow chow', 0.17923413613697728), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.06457109575575773), ('n02099601 golden retriever', 0.06281882116683948), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.044263679770571364), ('n02106030 collie', 0.04082974356843507)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02112137 chow, chow chow 0.17069021672110618
+Top5: [('n02112137 chow, chow chow', 0.17069021672110618), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10496266712419708), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.0902273079281266), ('n02106030 collie', 0.08014601904568075), ('n02099601 golden retriever', 0.04479981049813868)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02112137 chow, chow chow 0.171417991371889
+Top5: [('n02112137 chow, chow chow', 0.171417991371889), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10480902847827725), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09008431763016288), ('n02106030 collie', 0.08019635590430833), ('n02099601 golden retriever', 0.04482072154117121)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02112137 chow, chow chow 0.17142016447894318
+Top5: [('n02112137 chow, chow chow', 0.17142016447894318), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10480861660412066), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09008525194586396), ('n02106030 collie', 0.08019538002226162), ('n02099601 golden retriever', 0.04482017935839407)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02112137 chow, chow chow 0.17019724401308364
+Top5: [('n02112137 chow, chow chow', 0.17019724401308364), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10354823759086619), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.091253417697561), ('n02106030 collie', 0.07866723965086968), ('n02099601 golden retriever', 0.0436486179081453)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02112137 chow, chow chow 0.1710591314233871
+Top5: [('n02112137 chow, chow chow', 0.1710591314233871), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10354846015912962), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09123962515288511), ('n02106030 collie', 0.07888794819150617), ('n02099601 golden retriever', 0.04372007668234648)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02112137 chow, chow chow 0.17106174701099175
+Top5: [('n02112137 chow, chow chow', 0.17106174701099175), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10354784600635304), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09124054288874696), ('n02106030 collie', 0.07888692474838303), ('n02099601 golden retriever', 0.04371962716041139)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02112137 chow, chow chow 0.1699209830415198
+Top5: [('n02112137 chow, chow chow', 0.1699209830415198), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10337635509627749), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09134827096901978), ('n02106030 collie', 0.07843700673213347), ('n02099601 golden retriever', 0.04366687251379207)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02112137 chow, chow chow 0.17105866191784289
+Top5: [('n02112137 chow, chow chow', 0.17105866191784289), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10354891805716115), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09123975468259289), ('n02106030 collie', 0.07888832312069184), ('n02099601 golden retriever', 0.04372007999949055)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02112137 chow, chow chow 0.17106174257552442
+Top5: [('n02112137 chow, chow chow', 0.17106174257552442), ('n02105855 Shetland sheepdog, Shetland sheep dog, Shetland', 0.10354810357835796), ('n02113023 Pembroke, Pembroke Welsh corgi', 0.09124063684262557), ('n02106030 collie', 0.07888711443875739), ('n02099601 golden retriever', 0.04371958912494835)]
+
+3.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.2743732969381155e-20), ('n02841315 binoculars, field glasses, opera glasses', 2.5347303970647187e-21), ('n02974003 car wheel', 6.74472533585754e-24), ('n03065424 coil, spiral, volute, whorl, helix', 8.824125641290477e-27)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.276480059130128e-20), ('n02841315 binoculars, field glasses, opera glasses', 2.511879975847252e-21), ('n02974003 car wheel', 6.796753475910404e-24), ('n03065424 coil, spiral, volute, whorl, helix', 8.881118104589626e-27)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.2765520514442325e-20), ('n02841315 binoculars, field glasses, opera glasses', 2.5120445266145195e-21), ('n02974003 car wheel', 6.797132944245817e-24), ('n03065424 coil, spiral, volute, whorl, helix', 8.881861965106267e-27)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.8846435770808042
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.8846435770808042), ('n02423022 gazelle', 0.06640106029330889), ('n02110806 basenji', 0.014941803599925427), ('n02091134 whippet', 0.014156084431999717), ('n02091032 Italian greyhound', 0.011205819458406372)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.8810717887880626
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.8810717887880626), ('n02423022 gazelle', 0.06882165216569777), ('n02110806 basenji', 0.01513183943821853), ('n02091134 whippet', 0.014520797768712018), ('n02091032 Italian greyhound', 0.011607177211199854)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.8810670349254567
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.8810670349254567), ('n02423022 gazelle', 0.06882459469166544), ('n02110806 basenji', 0.015132204601399293), ('n02091134 whippet', 0.014521480810690757), ('n02091032 Italian greyhound', 0.011607662493655212)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9613662758113424
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9613662758113424), ('n02091134 whippet', 0.011833762150812534), ('n02110806 basenji', 0.010251255803166954), ('n02091032 Italian greyhound', 0.008466994158577552), ('n02423022 gazelle', 0.004562183955503319)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9609801729407607
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9609801729407607), ('n02091134 whippet', 0.012098746089262037), ('n02110806 basenji', 0.010275795591482832), ('n02091032 Italian greyhound', 0.00860015918153007), ('n02423022 gazelle', 0.004537405090105687)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9609784455150231
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9609784455150231), ('n02091134 whippet', 0.012099428301366127), ('n02110806 basenji', 0.010276021607645038), ('n02091032 Italian greyhound', 0.008600628109545252), ('n02423022 gazelle', 0.004537653793911149)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9613363885581745
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9613363885581745), ('n02091134 whippet', 0.01171532913318711), ('n02110806 basenji', 0.010490331739393038), ('n02091032 Italian greyhound', 0.008436876163181858), ('n02423022 gazelle', 0.004515702773485256)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9608664759848816
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9608664759848816), ('n02091134 whippet', 0.011973203438455654), ('n02110806 basenji', 0.010516987324221383), ('n02091032 Italian greyhound', 0.008588341155791806), ('n02423022 gazelle', 0.004537781287970274)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9608649519212312
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9608649519212312), ('n02091134 whippet', 0.011973854909882106), ('n02110806 basenji', 0.010517143096532806), ('n02091032 Italian greyhound', 0.00858875877912442), ('n02423022 gazelle', 0.004537991937082272)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9612650946963883
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9612650946963883), ('n02091134 whippet', 0.011743905266492325), ('n02110806 basenji', 0.010500572280314252), ('n02091032 Italian greyhound', 0.008459376354714875), ('n02423022 gazelle', 0.004532827108734928)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9608664115300078
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9608664115300078), ('n02091134 whippet', 0.011973251496485884), ('n02110806 basenji', 0.010516977367895296), ('n02091032 Italian greyhound', 0.008588384032502644), ('n02423022 gazelle', 0.004537782903511208)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02091244 Ibizan hound, Ibizan Podenco 0.9608649787002888
+Top5: [('n02091244 Ibizan hound, Ibizan Podenco', 0.9608649787002888), ('n02091134 whippet', 0.011973828087342361), ('n02110806 basenji', 0.0105171517284595), ('n02091032 Italian greyhound', 0.008588753485161445), ('n02423022 gazelle', 0.004537999104717009)]
+
+4.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999987
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999987), ('n02841315 binoculars, field glasses, opera glasses', 1.3756287941721051e-15), ('n02974003 car wheel', 3.5116009429102903e-26), ('n03814906 necklace', 7.124818317181082e-29), ('n03065424 coil, spiral, volute, whorl, helix', 3.186838688132882e-30)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999987
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999987), ('n02841315 binoculars, field glasses, opera glasses', 1.364908021583939e-15), ('n02974003 car wheel', 3.6095799571725864e-26), ('n03814906 necklace', 7.322399353587383e-29), ('n03065424 coil, spiral, volute, whorl, helix', 3.282251624611896e-30)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999987
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999987), ('n02841315 binoculars, field glasses, opera glasses', 1.364925098512774e-15), ('n02974003 car wheel', 3.6095019990299397e-26), ('n03814906 necklace', 7.322221368802447e-29), ('n03065424 coil, spiral, volute, whorl, helix', 3.282228828263851e-30)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.999049972124837
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.999049972124837), ('n02280649 cabbage butterfly', 0.0006408768381030154), ('n02277742 ringlet, ringlet butterfly', 0.00015602938755713912), ('n12768682 buckeye, horse chestnut, conker', 4.7090153740539076e-05), ('n02281787 lycaenid, lycaenid butterfly', 2.8367854546768418e-05)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9990424590335633
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9990424590335633), ('n02280649 cabbage butterfly', 0.0006425702708684737), ('n02277742 ringlet, ringlet butterfly', 0.00015559198802844165), ('n12768682 buckeye, horse chestnut, conker', 4.986091977980948e-05), ('n02281787 lycaenid, lycaenid butterfly', 2.8486643695953078e-05)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9990424672552943
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9990424672552943), ('n02280649 cabbage butterfly', 0.0006425678384240305), ('n02277742 ringlet, ringlet butterfly', 0.0001555899427902711), ('n12768682 buckeye, horse chestnut, conker', 4.985954427528614e-05), ('n02281787 lycaenid, lycaenid butterfly', 2.848678653078897e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9983145889376773
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9983145889376773), ('n02280649 cabbage butterfly', 0.0010676252832824387), ('n02277742 ringlet, ringlet butterfly', 0.00029784852454728015), ('n12768682 buckeye, horse chestnut, conker', 0.00010322763426617854), ('n02281787 lycaenid, lycaenid butterfly', 6.149419170521264e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9983088787739868
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9983088787739868), ('n02280649 cabbage butterfly', 0.001065363624626936), ('n02277742 ringlet, ringlet butterfly', 0.00029470966583498365), ('n12768682 buckeye, horse chestnut, conker', 0.00010898987996845343), ('n02281787 lycaenid, lycaenid butterfly', 6.164283583377854e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9983088976218936
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9983088976218936), ('n02280649 cabbage butterfly', 0.0010653514473520842), ('n02277742 ringlet, ringlet butterfly', 0.0002947077786123245), ('n12768682 buckeye, horse chestnut, conker', 0.00010898785368436175), ('n02281787 lycaenid, lycaenid butterfly', 6.164275027466467e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9982921727281046
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9982921727281046), ('n02280649 cabbage butterfly', 0.0010828570737393501), ('n02277742 ringlet, ringlet butterfly', 0.0003040030887814872), ('n12768682 buckeye, horse chestnut, conker', 0.00010418324005308798), ('n02281787 lycaenid, lycaenid butterfly', 6.074617861387334e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.998289978986233
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.998289978986233), ('n02280649 cabbage butterfly', 0.0010774087488810203), ('n02277742 ringlet, ringlet butterfly', 0.0003016445560225201), ('n12768682 buckeye, horse chestnut, conker', 0.0001094165697407387), ('n02281787 lycaenid, lycaenid butterfly', 6.112367542034123e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9982899938822084
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9982899938822084), ('n02280649 cabbage butterfly', 0.0010773996137787292), ('n02277742 ringlet, ringlet butterfly', 0.0003016433968795983), ('n12768682 buckeye, horse chestnut, conker', 0.00010941491163719247), ('n02281787 lycaenid, lycaenid butterfly', 6.112379947805742e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9982882165529242
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9982882165529242), ('n02280649 cabbage butterfly', 0.0010860296629325774), ('n02277742 ringlet, ringlet butterfly', 0.0003058758150128558), ('n12768682 buckeye, horse chestnut, conker', 0.00010361877582880605), ('n02281787 lycaenid, lycaenid butterfly', 6.0768253344241166e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9982899756341965
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9982899756341965), ('n02280649 cabbage butterfly', 0.001077409087350973), ('n02277742 ringlet, ringlet butterfly', 0.0003016448330815092), ('n12768682 buckeye, horse chestnut, conker', 0.0001094177410638978), ('n02281787 lycaenid, lycaenid butterfly', 6.112371843149433e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02281406 sulphur butterfly, sulfur butterfly 0.9982899888919665
+Top5: [('n02281406 sulphur butterfly, sulfur butterfly', 0.9982899888919665), ('n02280649 cabbage butterfly', 0.0010774027165409439), ('n02277742 ringlet, ringlet butterfly', 0.000301643133249298), ('n12768682 buckeye, horse chestnut, conker', 0.00010941556247004097), ('n02281787 lycaenid, lycaenid butterfly', 6.112396290266574e-05)]
+
+5.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999999
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999999), ('n02841315 binoculars, field glasses, opera glasses', 1.1112397501267265e-16), ('n02974003 car wheel', 1.0736212401289967e-22), ('n04554684 washer, automatic washer, washing machine', 8.282372221355658e-27), ('n03814906 necklace', 6.1107135447665724e-27)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999998
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999998), ('n02841315 binoculars, field glasses, opera glasses', 1.1814702601260912e-16), ('n02974003 car wheel', 1.1680211489181645e-22), ('n04554684 washer, automatic washer, washing machine', 8.459742444878068e-27), ('n03814906 necklace', 6.534275476025879e-27)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999998
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999998), ('n02841315 binoculars, field glasses, opera glasses', 1.1814545624560803e-16), ('n02974003 car wheel', 1.1679751940556692e-22), ('n04554684 washer, automatic washer, washing machine', 8.459706617363007e-27), ('n03814906 necklace', 6.534297145522984e-27)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n04004767 printer 0.19872511545195773
+Top5: [('n04004767 printer', 0.19872511545195773), ('n03180011 desktop computer', 0.12333854139075467), ('n04152593 screen, CRT screen', 0.07207384189602041), ('n03133878 Crock Pot', 0.04902526892367797), ('n03782006 monitor', 0.047816243337930345)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n04004767 printer 0.19974099586611163
+Top5: [('n04004767 printer', 0.19974099586611163), ('n03180011 desktop computer', 0.12319723173584689), ('n04152593 screen, CRT screen', 0.07104114917315352), ('n03133878 Crock Pot', 0.049114402877368554), ('n03782006 monitor', 0.047612439125969144)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n04004767 printer 0.19974218676481667
+Top5: [('n04004767 printer', 0.19974218676481667), ('n03180011 desktop computer', 0.12319635237624976), ('n04152593 screen, CRT screen', 0.07104028759523097), ('n03133878 Crock Pot', 0.04911520460391612), ('n03782006 monitor', 0.0476117848707327)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n04004767 printer 0.30322906442827774
+Top5: [('n04004767 printer', 0.30322906442827774), ('n03180011 desktop computer', 0.1308993586268326), ('n04152593 screen, CRT screen', 0.07824324499477904), ('n03085013 computer keyboard, keypad', 0.05934391664073751), ('n03782006 monitor', 0.0538055591928712)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n04004767 printer 0.3051508861192891
+Top5: [('n04004767 printer', 0.3051508861192891), ('n03180011 desktop computer', 0.12975920623542125), ('n04152593 screen, CRT screen', 0.07713173001713103), ('n03085013 computer keyboard, keypad', 0.05942423979499897), ('n03782006 monitor', 0.05317471207676946)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n04004767 printer 0.30515204450128597
+Top5: [('n04004767 printer', 0.30515204450128597), ('n03180011 desktop computer', 0.1297590638392982), ('n04152593 screen, CRT screen', 0.07713083860504492), ('n03085013 computer keyboard, keypad', 0.059423913952180364), ('n03782006 monitor', 0.05317436143656633)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n04004767 printer 0.299944086107927
+Top5: [('n04004767 printer', 0.299944086107927), ('n03180011 desktop computer', 0.13195002916468415), ('n04152593 screen, CRT screen', 0.08027100532304302), ('n03085013 computer keyboard, keypad', 0.05988076983752901), ('n03782006 monitor', 0.05482189836714787)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n04004767 printer 0.3012239111752528
+Top5: [('n04004767 printer', 0.3012239111752528), ('n03180011 desktop computer', 0.13085114038997084), ('n04152593 screen, CRT screen', 0.07908530534788909), ('n03085013 computer keyboard, keypad', 0.06004656301801845), ('n03782006 monitor', 0.054190104695847154)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n04004767 printer 0.30122531087580245
+Top5: [('n04004767 printer', 0.30122531087580245), ('n03180011 desktop computer', 0.1308507986038973), ('n04152593 screen, CRT screen', 0.07908423284407161), ('n03085013 computer keyboard, keypad', 0.06004605138899888), ('n03782006 monitor', 0.0541897066060664)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n04004767 printer 0.29978514292745845
+Top5: [('n04004767 printer', 0.29978514292745845), ('n03180011 desktop computer', 0.13188637805372358), ('n04152593 screen, CRT screen', 0.08026719011357246), ('n03085013 computer keyboard, keypad', 0.05993614396886414), ('n03782006 monitor', 0.05478805551893164)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n04004767 printer 0.3012242180536486
+Top5: [('n04004767 printer', 0.3012242180536486), ('n03180011 desktop computer', 0.13085113089116926), ('n04152593 screen, CRT screen', 0.07908515380781041), ('n03085013 computer keyboard, keypad', 0.06004651357042492), ('n03782006 monitor', 0.05419008671091984)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n04004767 printer 0.3012253218473885
+Top5: [('n04004767 printer', 0.3012253218473885), ('n03180011 desktop computer', 0.130850921992598), ('n04152593 screen, CRT screen', 0.07908432803413942), ('n03085013 computer keyboard, keypad', 0.06004610002579031), ('n03782006 monitor', 0.054189804157805554)]
+
+6.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.2515981671786914e-19), ('n02841315 binoculars, field glasses, opera glasses', 1.0591228740956237e-21), ('n02974003 car wheel', 1.52357855857609e-22), ('n03065424 coil, spiral, volute, whorl, helix', 2.359275871096439e-25)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.288673318898598e-19), ('n02841315 binoculars, field glasses, opera glasses', 1.1027208174399057e-21), ('n02974003 car wheel', 1.6022314317815167e-22), ('n03065424 coil, spiral, volute, whorl, helix', 2.423013067249123e-25)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n03814906 necklace', 1.288725543636547e-19), ('n02841315 binoculars, field glasses, opera glasses', 1.1027147152995688e-21), ('n02974003 car wheel', 1.6022272695577792e-22), ('n03065424 coil, spiral, volute, whorl, helix', 2.423025060016229e-25)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02799071 baseball 0.9999272214638911
+Top5: [('n02799071 baseball', 0.9999272214638911), ('n04118538 rugby ball', 2.532281089633458e-05), ('n03942813 ping-pong ball', 2.1421686801537947e-05), ('n04409515 tennis ball', 1.3841587765068192e-05), ('n03445777 golf ball', 4.797878315621829e-06)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02799071 baseball 0.9999255253869719
+Top5: [('n02799071 baseball', 0.9999255253869719), ('n04118538 rugby ball', 2.581136899411363e-05), ('n03942813 ping-pong ball', 2.2290544100124847e-05), ('n04409515 tennis ball', 1.395054943751469e-05), ('n03445777 golf ball', 4.926010658247312e-06)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02799071 baseball 0.999925524985963
+Top5: [('n02799071 baseball', 0.999925524985963), ('n04118538 rugby ball', 2.5811702413743222e-05), ('n03942813 ping-pong ball', 2.2290422565870273e-05), ('n04409515 tennis ball', 1.3950659867997915e-05), ('n03445777 golf ball', 4.92601582028966e-06)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02799071 baseball 0.9998961231571412
+Top5: [('n02799071 baseball', 0.9998961231571412), ('n03942813 ping-pong ball', 3.450793971057542e-05), ('n04118538 rugby ball', 3.122746893321469e-05), ('n04409515 tennis ball', 2.079196912422577e-05), ('n03445777 golf ball', 1.0911461267229327e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02799071 baseball 0.9998941630047132
+Top5: [('n02799071 baseball', 0.9998941630047132), ('n03942813 ping-pong ball', 3.539188830342884e-05), ('n04118538 rugby ball', 3.1989255372777485e-05), ('n04409515 tennis ball', 2.084289094914497e-05), ('n03445777 golf ball', 1.1139664215767597e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02799071 baseball 0.9998941618048617
+Top5: [('n02799071 baseball', 0.9998941618048617), ('n03942813 ping-pong ball', 3.539204991893024e-05), ('n04118538 rugby ball', 3.1989637775964136e-05), ('n04409515 tennis ball', 2.0843311377942876e-05), ('n03445777 golf ball', 1.1139794753936023e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02799071 baseball 0.9998933343925446
+Top5: [('n02799071 baseball', 0.9998933343925446), ('n03942813 ping-pong ball', 3.526178410278741e-05), ('n04118538 rugby ball', 3.184255243209104e-05), ('n04409515 tennis ball', 2.1828161553647018e-05), ('n03445777 golf ball', 1.1091892658390703e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02799071 baseball 0.9998911927651981
+Top5: [('n02799071 baseball', 0.9998911927651981), ('n03942813 ping-pong ball', 3.629734694773474e-05), ('n04118538 rugby ball', 3.2669724220373845e-05), ('n04409515 tennis ball', 2.1811478343346065e-05), ('n03445777 golf ball', 1.1349833613967669e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02799071 baseball 0.9998911922512107
+Top5: [('n02799071 baseball', 0.9998911922512107), ('n03942813 ping-pong ball', 3.6297322220427025e-05), ('n04118538 rugby ball', 3.2669984264232836e-05), ('n04409515 tennis ball', 2.181172487453488e-05), ('n03445777 golf ball', 1.1349835238622629e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02799071 baseball 0.999893672720897
+Top5: [('n02799071 baseball', 0.999893672720897), ('n03942813 ping-pong ball', 3.5181798168766074e-05), ('n04118538 rugby ball', 3.178521084372908e-05), ('n04409515 tennis ball', 2.1713659226709452e-05), ('n03445777 golf ball', 1.1038739828404445e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02799071 baseball 0.999891192349404
+Top5: [('n02799071 baseball', 0.999891192349404), ('n03942813 ping-pong ball', 3.629751072990309e-05), ('n04118538 rugby ball', 3.266986950062201e-05), ('n04409515 tennis ball', 2.1811586672686053e-05), ('n03445777 golf ball', 1.134980500618862e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02799071 baseball 0.9998911921399877
+Top5: [('n02799071 baseball', 0.9998911921399877), ('n03942813 ping-pong ball', 3.629736770185836e-05), ('n04118538 rugby ball', 3.267004555802892e-05), ('n04409515 tennis ball', 2.18117218736505e-05), ('n03445777 golf ball', 1.1349844808236575e-05)]
+
+7.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 5.102441038164778e-23), ('n02974003 car wheel', 6.07705048086066e-29), ('n04554684 washer, automatic washer, washing machine', 2.336428606980427e-31), ('n03814906 necklace', 2.3328015015436366e-34)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 5.095758211263572e-23), ('n02974003 car wheel', 6.125234538029353e-29), ('n04554684 washer, automatic washer, washing machine', 2.327559189847853e-31), ('n03814906 necklace', 2.359108725609175e-34)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 5.09582137703185e-23), ('n02974003 car wheel', 6.125227802661711e-29), ('n04554684 washer, automatic washer, washing machine', 2.3275933703894006e-31), ('n03814906 necklace', 2.35913929027313e-34)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.6610810111190948
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.6610810111190948), ('n02110185 Siberian husky', 0.21111160310277788), ('n02109961 Eskimo dog, husky', 0.12501151721268602), ('n02091467 Norwegian elkhound, elkhound', 0.0012505299119480095), ('n03218198 dogsled, dog sled, dog sleigh', 0.0005350097278124031)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.6631509107860363
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.6631509107860363), ('n02110185 Siberian husky', 0.2095114973999437), ('n02109961 Eskimo dog, husky', 0.12451115189944359), ('n02091467 Norwegian elkhound, elkhound', 0.0012616140816399007), ('n03218198 dogsled, dog sled, dog sleigh', 0.0005404252294207271)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.6631507948007594
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.6631507948007594), ('n02110185 Siberian husky', 0.20951166145555597), ('n02109961 Eskimo dog, husky', 0.12451107298637121), ('n02091467 Norwegian elkhound, elkhound', 0.001261630658770405), ('n03218198 dogsled, dog sled, dog sleigh', 0.0005404296550854499)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5795872247761377
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5795872247761377), ('n02110185 Siberian husky', 0.2429119093522799), ('n02109961 Eskimo dog, husky', 0.16825516584113465), ('n02091467 Norwegian elkhound, elkhound', 0.0028333970248337055), ('n03218198 dogsled, dog sled, dog sleigh', 0.001942360325908007)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5808737322806098
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5808737322806098), ('n02110185 Siberian husky', 0.24197821996034194), ('n02109961 Eskimo dog, husky', 0.16786512461001457), ('n02091467 Norwegian elkhound, elkhound', 0.002834891041187192), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019518092601000508)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5808735847466532
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5808735847466532), ('n02110185 Siberian husky', 0.24197828433269103), ('n02109961 Eskimo dog, husky', 0.16786515745272046), ('n02091467 Norwegian elkhound, elkhound', 0.0028349202766733343), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019518139807950955)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.577259347379082
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.577259347379082), ('n02110185 Siberian husky', 0.24444440814231883), ('n02109961 Eskimo dog, husky', 0.1691332579767759), ('n02091467 Norwegian elkhound, elkhound', 0.0027817332973659728), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019314030790610862)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5784812378459132
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5784812378459132), ('n02110185 Siberian husky', 0.24366670483787745), ('n02109961 Eskimo dog, husky', 0.16865085730863008), ('n02091467 Norwegian elkhound, elkhound', 0.002792388638495734), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019375800752727177)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.578481752990963
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.578481752990963), ('n02110185 Siberian husky', 0.24366642836646193), ('n02109961 Eskimo dog, husky', 0.16865059346363573), ('n02091467 Norwegian elkhound, elkhound', 0.0027924105542613976), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019375825735992475)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5777877524366722
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5777877524366722), ('n02110185 Siberian husky', 0.24426945918723722), ('n02109961 Eskimo dog, husky', 0.16883914602224864), ('n02091467 Norwegian elkhound, elkhound', 0.0027691911447762486), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019196873166797796)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5784812855826474
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5784812855826474), ('n02110185 Siberian husky', 0.24366676261472373), ('n02109961 Eskimo dog, husky', 0.1686508077540986), ('n02091467 Norwegian elkhound, elkhound', 0.0027923781589878124), ('n03218198 dogsled, dog sled, dog sleigh', 0.0019375626131481487)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02110063 malamute, malemute, Alaskan malamute 0.5784821876495029
+Top5: [('n02110063 malamute, malemute, Alaskan malamute', 0.5784821876495029), ('n02110185 Siberian husky', 0.24366606422198053), ('n02109961 Eskimo dog, husky', 0.16865050839914714), ('n02091467 Norwegian elkhound, elkhound', 0.002792418310798614), ('n03218198 dogsled, dog sled, dog sleigh', 0.001937579643075628)]
+
+8.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999994948378
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999994948378), ('n02841315 binoculars, field glasses, opera glasses', 4.886638380199092e-10), ('n03814906 necklace', 1.2992718578539663e-11), ('n02974003 car wheel', 3.4862573042498082e-12), ('n03065424 coil, spiral, volute, whorl, helix', 1.1658820894627441e-14)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999994728875
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999994728875), ('n02841315 binoculars, field glasses, opera glasses', 5.103169571740634e-10), ('n03814906 necklace', 1.3191462133582522e-11), ('n02974003 car wheel', 3.5838283892799545e-12), ('n03065424 coil, spiral, volute, whorl, helix', 1.2013062199065075e-14)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999994728989
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999994728989), ('n02841315 binoculars, field glasses, opera glasses', 5.103064053907406e-10), ('n03814906 necklace', 1.3190773561352449e-11), ('n02974003 car wheel', 3.583654495346393e-12), ('n03065424 coil, spiral, volute, whorl, helix', 1.2012489964499688e-14)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n03804744 nail 0.6935273206459415
+Top5: [('n03804744 nail', 0.6935273206459415), ('n04376876 syringe', 0.09378740957259626), ('n03729826 matchstick', 0.06713320965997314), ('n04153751 screw', 0.03908904162184049), ('n04154565 screwdriver', 0.0182222309009746)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n03804744 nail 0.684363304318025
+Top5: [('n03804744 nail', 0.684363304318025), ('n04376876 syringe', 0.09486661046233275), ('n03729826 matchstick', 0.06946370873516826), ('n04153751 screw', 0.04007623449117473), ('n04154565 screwdriver', 0.01908162102630721)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n03804744 nail 0.6843586156603139
+Top5: [('n03804744 nail', 0.6843586156603139), ('n04376876 syringe', 0.09486938880039754), ('n03729826 matchstick', 0.06946510334599079), ('n04153751 screw', 0.04007592515200303), ('n04154565 screwdriver', 0.019081947646258843)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n03804744 nail 0.6189784001782072
+Top5: [('n03804744 nail', 0.6189784001782072), ('n03729826 matchstick', 0.09390281128684717), ('n04376876 syringe', 0.08724057298886714), ('n04153751 screw', 0.04844206446970149), ('n04154565 screwdriver', 0.019331557274280594)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n03804744 nail 0.6105269243275215
+Top5: [('n03804744 nail', 0.6105269243275215), ('n03729826 matchstick', 0.09521366874534407), ('n04376876 syringe', 0.08823284070433521), ('n04153751 screw', 0.04996226296116667), ('n04154565 screwdriver', 0.02018867605436492)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n03804744 nail 0.6105182775322449
+Top5: [('n03804744 nail', 0.6105182775322449), ('n03729826 matchstick', 0.09521534371203451), ('n04376876 syringe', 0.0882371771999149), ('n04153751 screw', 0.04996273855842249), ('n04154565 screwdriver', 0.020189073495562954)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n03804744 nail 0.6205598162780432
+Top5: [('n03804744 nail', 0.6205598162780432), ('n03729826 matchstick', 0.09359469043253724), ('n04376876 syringe', 0.0874935412496123), ('n04153751 screw', 0.04864931253803859), ('n04154565 screwdriver', 0.019121805593540882)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n03804744 nail 0.6125573736864446
+Top5: [('n03804744 nail', 0.6125573736864446), ('n03729826 matchstick', 0.09468008431924692), ('n04376876 syringe', 0.08802202044092229), ('n04153751 screw', 0.050089525534925336), ('n04154565 screwdriver', 0.01990049670089079)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n03804744 nail 0.6125462240980791
+Top5: [('n03804744 nail', 0.6125462240980791), ('n03729826 matchstick', 0.09468246202978894), ('n04376876 syringe', 0.08802662792802805), ('n04153751 screw', 0.05008989629178029), ('n04154565 screwdriver', 0.019900874621762713)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n03804744 nail 0.6210503493773462
+Top5: [('n03804744 nail', 0.6210503493773462), ('n03729826 matchstick', 0.0928846844651275), ('n04376876 syringe', 0.08744308430373378), ('n04153751 screw', 0.048755025970715335), ('n04154565 screwdriver', 0.019119512616063445)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n03804744 nail 0.6125570462093175
+Top5: [('n03804744 nail', 0.6125570462093175), ('n03729826 matchstick', 0.09468021736029998), ('n04376876 syringe', 0.08802177035465591), ('n04153751 screw', 0.05008966749324876), ('n04154565 screwdriver', 0.01990048478104532)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n03804744 nail 0.6125460184509078
+Top5: [('n03804744 nail', 0.6125460184509078), ('n03729826 matchstick', 0.09468254162105079), ('n04376876 syringe', 0.08802668043798349), ('n04153751 screw', 0.05008992239579184), ('n04154565 screwdriver', 0.01990089945093328)]
+
+9.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999228
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999228), ('n02841315 binoculars, field glasses, opera glasses', 7.721329938312142e-14), ('n02974003 car wheel', 5.74698040852972e-22), ('n03065424 coil, spiral, volute, whorl, helix', 3.0797350419162595e-23), ('n04554684 washer, automatic washer, washing machine', 2.3205276596249705e-23)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.999999999999923
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.999999999999923), ('n02841315 binoculars, field glasses, opera glasses', 7.701551342428038e-14), ('n02974003 car wheel', 5.594735941712845e-22), ('n03065424 coil, spiral, volute, whorl, helix', 2.974740263633287e-23), ('n04554684 washer, automatic washer, washing machine', 2.3307671504655542e-23)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.999999999999923
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.999999999999923), ('n02841315 binoculars, field glasses, opera glasses', 7.701706824570208e-14), ('n02974003 car wheel', 5.594846614391561e-22), ('n03065424 coil, spiral, volute, whorl, helix', 2.9747606601192143e-23), ('n04554684 washer, automatic washer, washing machine', 2.3308508857141594e-23)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n04131690 saltshaker, salt shaker 0.6326718170222896
+Top5: [('n04131690 saltshaker, salt shaker', 0.6326718170222896), ('n04423845 thimble', 0.06547872128772969), ('n03840681 ocarina, sweet potato', 0.04160449422731947), ('n04116512 rubber eraser, rubber, pencil eraser', 0.0145258583818503), ('n04019541 puck, hockey puck', 0.011207546518772258)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n04131690 saltshaker, salt shaker 0.6301801680306889
+Top5: [('n04131690 saltshaker, salt shaker', 0.6301801680306889), ('n04423845 thimble', 0.06426056756274359), ('n03840681 ocarina, sweet potato', 0.04225275329452815), ('n04116512 rubber eraser, rubber, pencil eraser', 0.014517490675734206), ('n01776313 tick', 0.011478854232213362)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n04131690 saltshaker, salt shaker 0.6301769206431005
+Top5: [('n04131690 saltshaker, salt shaker', 0.6301769206431005), ('n04423845 thimble', 0.06426007290831477), ('n03840681 ocarina, sweet potato', 0.04225390663727593), ('n04116512 rubber eraser, rubber, pencil eraser', 0.014517476592528918), ('n01776313 tick', 0.011479470614316865)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n04131690 saltshaker, salt shaker 0.6285100585716713
+Top5: [('n04131690 saltshaker, salt shaker', 0.6285100585716713), ('n03840681 ocarina, sweet potato', 0.07185121668255927), ('n04423845 thimble', 0.03521767936854851), ('n03602883 joystick', 0.0312641578659138), ('n04019541 puck, hockey puck', 0.025266329957194182)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n04131690 saltshaker, salt shaker 0.6230587850405614
+Top5: [('n04131690 saltshaker, salt shaker', 0.6230587850405614), ('n03840681 ocarina, sweet potato', 0.07385316626698925), ('n04423845 thimble', 0.03481846779064445), ('n03602883 joystick', 0.03122669507056595), ('n04019541 puck, hockey puck', 0.025733063517761664)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n04131690 saltshaker, salt shaker 0.6230549658808046
+Top5: [('n04131690 saltshaker, salt shaker', 0.6230549658808046), ('n03840681 ocarina, sweet potato', 0.07385541132429281), ('n04423845 thimble', 0.034817845244101996), ('n03602883 joystick', 0.03122654479723969), ('n04019541 puck, hockey puck', 0.02573320251815865)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n04131690 saltshaker, salt shaker 0.6348804070456392
+Top5: [('n04131690 saltshaker, salt shaker', 0.6348804070456392), ('n03840681 ocarina, sweet potato', 0.07123198571425912), ('n04423845 thimble', 0.03481183455504955), ('n03602883 joystick', 0.030699442751256148), ('n04019541 puck, hockey puck', 0.024323788071671747)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n04131690 saltshaker, salt shaker 0.6306781263215712
+Top5: [('n04131690 saltshaker, salt shaker', 0.6306781263215712), ('n03840681 ocarina, sweet potato', 0.07303912767167955), ('n04423845 thimble', 0.03416180726877899), ('n03602883 joystick', 0.030769844777926096), ('n04019541 puck, hockey puck', 0.024487966994950996)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n04131690 saltshaker, salt shaker 0.6306736434384618
+Top5: [('n04131690 saltshaker, salt shaker', 0.6306736434384618), ('n03840681 ocarina, sweet potato', 0.07304157439607437), ('n04423845 thimble', 0.03416107995131519), ('n03602883 joystick', 0.030769548058461008), ('n04019541 puck, hockey puck', 0.024487991713935273)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n04131690 saltshaker, salt shaker 0.6346083268734072
+Top5: [('n04131690 saltshaker, salt shaker', 0.6346083268734072), ('n03840681 ocarina, sweet potato', 0.07123705413090421), ('n04423845 thimble', 0.034731213518087826), ('n03602883 joystick', 0.030796584404405046), ('n04019541 puck, hockey puck', 0.024322501620233295)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n04131690 saltshaker, salt shaker 0.6306779547879973
+Top5: [('n04131690 saltshaker, salt shaker', 0.6306779547879973), ('n03840681 ocarina, sweet potato', 0.07303892063759347), ('n04423845 thimble', 0.03416174860381826), ('n03602883 joystick', 0.030769876095976), ('n04019541 puck, hockey puck', 0.024487990794283446)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n04131690 saltshaker, salt shaker 0.6306739029646412
+Top5: [('n04131690 saltshaker, salt shaker', 0.6306739029646412), ('n03840681 ocarina, sweet potato', 0.07304146049020292), ('n04423845 thimble', 0.034161147780918596), ('n03602883 joystick', 0.030769495754333312), ('n04019541 puck, hockey puck', 0.024487962971905666)]
+
+10.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.087650452820196e-26), ('n02974003 car wheel', 4.903552462110975e-36), ('n04554684 washer, automatic washer, washing machine', 1.0277441154877676e-41), ('n03814906 necklace', 5.900857802601998e-46)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.05480938626495e-26), ('n02974003 car wheel', 4.988189075206691e-36), ('n04554684 washer, automatic washer, washing machine', 1.0315074324155189e-41), ('n03814906 necklace', 5.785208106043604e-46)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.0548554032119095e-26), ('n02974003 car wheel', 4.9881684716544774e-36), ('n04554684 washer, automatic washer, washing machine', 1.0314795688879553e-41), ('n03814906 necklace', 5.785212852883894e-46)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n04252077 snowmobile 0.9912919100796864
+Top5: [('n04252077 snowmobile', 0.9912919100796864), ('n02860847 bobsled, bobsleigh, bob', 0.00742673398320339), ('n03218198 dogsled, dog sled, dog sleigh', 0.0007897632531634107), ('n04228054 ski', 0.0004493545232943063), ('n04229816 ski mask', 2.739489749858316e-05)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n04252077 snowmobile 0.9912895928610765
+Top5: [('n04252077 snowmobile', 0.9912895928610765), ('n02860847 bobsled, bobsleigh, bob', 0.0074532779645442825), ('n03218198 dogsled, dog sled, dog sleigh', 0.000774069098693735), ('n04228054 ski', 0.0004414656893580895), ('n04229816 ski mask', 2.688490209774982e-05)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n04252077 snowmobile 0.9912897900838888
+Top5: [('n04252077 snowmobile', 0.9912897900838888), ('n02860847 bobsled, bobsleigh, bob', 0.007453070989141635), ('n03218198 dogsled, dog sled, dog sleigh', 0.0007740771910730421), ('n04228054 ski', 0.0004414666294766896), ('n04229816 ski mask', 2.6885550969831222e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n04252077 snowmobile 0.994216583633581
+Top5: [('n04252077 snowmobile', 0.994216583633581), ('n02860847 bobsled, bobsleigh, bob', 0.005645951428681108), ('n03218198 dogsled, dog sled, dog sleigh', 9.34243193229569e-05), ('n04228054 ski', 3.79490859474123e-05), ('n04252225 snowplow, snowplough', 4.570189507087205e-06)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n04252077 snowmobile 0.9941628614355122
+Top5: [('n04252077 snowmobile', 0.9941628614355122), ('n02860847 bobsled, bobsleigh, bob', 0.005700377071447266), ('n03218198 dogsled, dog sled, dog sleigh', 9.294293995539365e-05), ('n04228054 ski', 3.764729271212042e-05), ('n04252225 snowplow, snowplough', 4.6705772177054044e-06)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n04252077 snowmobile 0.9941629586636237
+Top5: [('n04252077 snowmobile', 0.9941629586636237), ('n02860847 bobsled, bobsleigh, bob', 0.005700279105450583), ('n03218198 dogsled, dog sled, dog sleigh', 9.29436992562217e-05), ('n04228054 ski', 3.764718562822871e-05), ('n04252225 snowplow, snowplough', 4.670624183279495e-06)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n04252077 snowmobile 0.9940936454157104
+Top5: [('n04252077 snowmobile', 0.9940936454157104), ('n02860847 bobsled, bobsleigh, bob', 0.005762683855429221), ('n03218198 dogsled, dog sled, dog sleigh', 9.772147276770368e-05), ('n04228054 ski', 3.969844855122622e-05), ('n04252225 snowplow, snowplough', 4.6618625217100475e-06)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n04252077 snowmobile 0.9940499913629096
+Top5: [('n04252077 snowmobile', 0.9940499913629096), ('n02860847 bobsled, bobsleigh, bob', 0.005806448624940547), ('n03218198 dogsled, dog sled, dog sleigh', 9.761893884640727e-05), ('n04228054 ski', 3.959024309829401e-05), ('n04252225 snowplow, snowplough', 4.774205156120651e-06)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n04252077 snowmobile 0.9940501301684662
+Top5: [('n04252077 snowmobile', 0.9940501301684662), ('n02860847 bobsled, bobsleigh, bob', 0.005806308698425357), ('n03218198 dogsled, dog sled, dog sleigh', 9.762001570033513e-05), ('n04228054 ski', 3.959020476348245e-05), ('n04252225 snowplow, snowplough', 4.774239938040208e-06)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n04252077 snowmobile 0.994095696150812
+Top5: [('n04252077 snowmobile', 0.994095696150812), ('n02860847 bobsled, bobsleigh, bob', 0.005761106302042935), ('n03218198 dogsled, dog sled, dog sleigh', 9.734509751459996e-05), ('n04228054 ski', 3.959466191317437e-05), ('n04252225 snowplow, snowplough', 4.666878022154126e-06)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n04252077 snowmobile 0.9940500327851406
+Top5: [('n04252077 snowmobile', 0.9940500327851406), ('n02860847 bobsled, bobsleigh, bob', 0.0058064075163305265), ('n03218198 dogsled, dog sled, dog sleigh', 9.761871603692952e-05), ('n04228054 ski', 3.9590171642237606e-05), ('n04252225 snowplow, snowplough', 4.774187169734203e-06)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n04252077 snowmobile 0.9940501538897415
+Top5: [('n04252077 snowmobile', 0.9940501538897415), ('n02860847 bobsled, bobsleigh, bob', 0.005806285597686283), ('n03218198 dogsled, dog sled, dog sleigh', 9.761959086207041e-05), ('n04228054 ski', 3.9590025427279984e-05), ('n04252225 snowplow, snowplough', 4.774228822540035e-06)]
+
+11.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.2986035250578151e-23), ('n02974003 car wheel', 6.662542490156354e-34), ('n04554684 washer, automatic washer, washing machine', 1.6377696901354093e-35), ('n03814906 necklace', 5.458994462681607e-38)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.2926661563883916e-23), ('n02974003 car wheel', 6.500246687134256e-34), ('n04554684 washer, automatic washer, washing machine', 1.6397615327605632e-35), ('n03814906 necklace', 5.293366421258406e-38)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.2926819651994412e-23), ('n02974003 car wheel', 6.500135244529007e-34), ('n04554684 washer, automatic washer, washing machine', 1.639756411627335e-35), ('n03814906 necklace', 5.293394271882663e-38)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02127052 lynx, catamount 0.30896441668252794
+Top5: [('n02127052 lynx, catamount', 0.30896441668252794), ('n03763968 military uniform', 0.11831802961536877), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.0523977657156888), ('n02417914 ibex, Capra ibex', 0.04034365158315406), ('n01877812 wallaby, brush kangaroo', 0.03451096856328568)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02127052 lynx, catamount 0.3079120528219259
+Top5: [('n02127052 lynx, catamount', 0.3079120528219259), ('n03763968 military uniform', 0.11596054167671421), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.05259374133729462), ('n02417914 ibex, Capra ibex', 0.04144386421887873), ('n01877812 wallaby, brush kangaroo', 0.03471924266561359)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02127052 lynx, catamount 0.3079152653763047
+Top5: [('n02127052 lynx, catamount', 0.3079152653763047), ('n03763968 military uniform', 0.11596099405060277), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.05259399231994084), ('n02417914 ibex, Capra ibex', 0.04144302423108449), ('n01877812 wallaby, brush kangaroo', 0.034718559175211404)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02127052 lynx, catamount 0.23428887667599455
+Top5: [('n02127052 lynx, catamount', 0.23428887667599455), ('n03763968 military uniform', 0.14917078725882527), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.05030672965133149), ('n01877812 wallaby, brush kangaroo', 0.03602788359769137), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03256840441635712)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02127052 lynx, catamount 0.2326188522439872
+Top5: [('n02127052 lynx, catamount', 0.2326188522439872), ('n03763968 military uniform', 0.14728728785927384), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.049994298001961014), ('n01877812 wallaby, brush kangaroo', 0.03637615961614466), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03287849075429094)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02127052 lynx, catamount 0.23262052539259107
+Top5: [('n02127052 lynx, catamount', 0.23262052539259107), ('n03763968 military uniform', 0.1472875566049234), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.04999570268272355), ('n01877812 wallaby, brush kangaroo', 0.03637542382371302), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.032878384245216594)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02127052 lynx, catamount 0.23201466880759916
+Top5: [('n02127052 lynx, catamount', 0.23201466880759916), ('n03763968 military uniform', 0.15174213193445374), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.051514027686404534), ('n01877812 wallaby, brush kangaroo', 0.035334404547728675), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03206966859688941)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02127052 lynx, catamount 0.23277882613908252
+Top5: [('n02127052 lynx, catamount', 0.23277882613908252), ('n03763968 military uniform', 0.14842513772302493), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.05119406646968742), ('n01877812 wallaby, brush kangaroo', 0.035683940721880233), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03239634454780673)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02127052 lynx, catamount 0.23278162600922128
+Top5: [('n02127052 lynx, catamount', 0.23278162600922128), ('n03763968 military uniform', 0.14842476396938875), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.051195697253363634), ('n01877812 wallaby, brush kangaroo', 0.035683028461503556), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03239616194885918)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02127052 lynx, catamount 0.23155644654945218
+Top5: [('n02127052 lynx, catamount', 0.23155644654945218), ('n03763968 military uniform', 0.1519382531306123), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.05172147822076329), ('n01877812 wallaby, brush kangaroo', 0.03515503372633845), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03188922890727458)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02127052 lynx, catamount 0.2327794242508733
+Top5: [('n02127052 lynx, catamount', 0.2327794242508733), ('n03763968 military uniform', 0.14842451203294868), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.05119397174695702), ('n01877812 wallaby, brush kangaroo', 0.03568410710249756), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.032396281062133554)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02127052 lynx, catamount 0.23278128532811287
+Top5: [('n02127052 lynx, catamount', 0.23278128532811287), ('n03763968 military uniform', 0.14842479680414677), ('n01622779 great grey owl, great gray owl, Strix nebulosa', 0.051195726897614015), ('n01877812 wallaby, brush kangaroo', 0.03568308071245177), ('n02125311 cougar, puma, catamount, mountain lion, painter, panther, Felis concolor', 0.03239612236506253)]
+
+12.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 2.1189199463909148e-21), ('n02974003 car wheel', 4.9509216632958575e-28), ('n03814906 necklace', 2.3232554173393176e-32), ('n04554684 washer, automatic washer, washing machine', 1.1707981224278616e-32)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 2.116599854368339e-21), ('n02974003 car wheel', 4.994640007442873e-28), ('n03814906 necklace', 2.3763710589140374e-32), ('n04554684 washer, automatic washer, washing machine', 1.1811753477941595e-32)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 2.116543531120115e-21), ('n02974003 car wheel', 4.994412888699993e-28), ('n03814906 necklace', 2.376239360990804e-32), ('n04554684 washer, automatic washer, washing machine', 1.1811329909925902e-32)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02090622 borzoi, Russian wolfhound 0.9948521236584488
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9948521236584488), ('n02091831 Saluki, gazelle hound', 0.001798646726079801), ('n02091134 whippet', 0.0013390946883617566), ('n02091244 Ibizan hound, Ibizan Podenco', 0.000805026500096115), ('n02092002 Scottish deerhound, deerhound', 0.0005739658030188898)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02090622 borzoi, Russian wolfhound 0.9948160641275002
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9948160641275002), ('n02091831 Saluki, gazelle hound', 0.001819423539188823), ('n02091134 whippet', 0.0013516438852940228), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0008074754731965013), ('n02092002 Scottish deerhound, deerhound', 0.0005757523781729165)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02090622 borzoi, Russian wolfhound 0.9948161403669705
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9948161403669705), ('n02091831 Saluki, gazelle hound', 0.0018193983262971116), ('n02091134 whippet', 0.0013516201110469986), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0008074649977146108), ('n02092002 Scottish deerhound, deerhound', 0.000575744455553548)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02090622 borzoi, Russian wolfhound 0.9952326695041448
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952326695041448), ('n02091831 Saluki, gazelle hound', 0.0014960166258487573), ('n02091134 whippet', 0.0013931266198168567), ('n02092002 Scottish deerhound, deerhound', 0.0005952003864288576), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005629557742946579)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02090622 borzoi, Russian wolfhound 0.9952415353934142
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952415353934142), ('n02091831 Saluki, gazelle hound', 0.0015000717303267877), ('n02091134 whippet', 0.0013891068945766165), ('n02092002 Scottish deerhound, deerhound', 0.0005939307387396979), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005598430876340259)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02090622 borzoi, Russian wolfhound 0.9952415586120243
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952415586120243), ('n02091831 Saluki, gazelle hound', 0.0015000676437353093), ('n02091134 whippet', 0.0013890949692303015), ('n02092002 Scottish deerhound, deerhound', 0.0005939312292275435), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005598390933671025)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02090622 borzoi, Russian wolfhound 0.9952658005156215
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952658005156215), ('n02091831 Saluki, gazelle hound', 0.00151092901446708), ('n02091134 whippet', 0.0013694188719473052), ('n02092002 Scottish deerhound, deerhound', 0.0005963104350107693), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005507917798626018)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02090622 borzoi, Russian wolfhound 0.9952497067402977
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952497067402977), ('n02091831 Saluki, gazelle hound', 0.001522184211737251), ('n02091134 whippet', 0.0013776574073372293), ('n02092002 Scottish deerhound, deerhound', 0.0005957448671999177), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005503221128043806)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02090622 borzoi, Russian wolfhound 0.9952497524185476
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952497524185476), ('n02091831 Saluki, gazelle hound', 0.0015221724590113166), ('n02091134 whippet', 0.0013776419851663528), ('n02092002 Scottish deerhound, deerhound', 0.0005957411099930881), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005503168011371423)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02090622 borzoi, Russian wolfhound 0.9952609627831668
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952609627831668), ('n02091831 Saluki, gazelle hound', 0.0015141345581327027), ('n02091134 whippet', 0.0013704159655887106), ('n02092002 Scottish deerhound, deerhound', 0.0005962430953818826), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005507911478904506)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02090622 borzoi, Russian wolfhound 0.995249730605226
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.995249730605226), ('n02091831 Saluki, gazelle hound', 0.0015221739115803782), ('n02091134 whippet', 0.001377650883040101), ('n02092002 Scottish deerhound, deerhound', 0.0005957427243420374), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005503196138799506)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02090622 borzoi, Russian wolfhound 0.9952497518170228
+Top5: [('n02090622 borzoi, Russian wolfhound', 0.9952497518170228), ('n02091831 Saluki, gazelle hound', 0.0015221716588524345), ('n02091134 whippet', 0.001377642686072387), ('n02092002 Scottish deerhound, deerhound', 0.0005957408625260371), ('n02091244 Ibizan hound, Ibizan Podenco', 0.0005503168603820982)]
+
+13.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.362320786334101e-25), ('n04554684 washer, automatic washer, washing machine', 1.7086749882206066e-38), ('n02974003 car wheel', 5.75280411816188e-40), ('n04127249 safety pin', 8.463445307180237e-49)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.2757864900350876e-25), ('n04554684 washer, automatic washer, washing machine', 1.7262447486516777e-38), ('n02974003 car wheel', 5.809864648950868e-40), ('n04127249 safety pin', 8.444201762250435e-49)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.275791157768982e-25), ('n04554684 washer, automatic washer, washing machine', 1.7262599269313444e-38), ('n02974003 car wheel', 5.809894083437299e-40), ('n04127249 safety pin', 8.444360195682532e-49)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02098105 soft-coated wheaten terrier 0.5350677665626594
+Top5: [('n02098105 soft-coated wheaten terrier', 0.5350677665626594), ('n02094114 Norfolk terrier', 0.20071497801585986), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.13730646290423207), ('n02094258 Norwich terrier', 0.031084254831126173), ('n02098413 Lhasa, Lhasa apso', 0.024867631536593618)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02098105 soft-coated wheaten terrier 0.5369676479649462
+Top5: [('n02098105 soft-coated wheaten terrier', 0.5369676479649462), ('n02094114 Norfolk terrier', 0.20074654208084), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.13654051822102126), ('n02094258 Norwich terrier', 0.030782363402512062), ('n02098413 Lhasa, Lhasa apso', 0.0248221179821814)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02098105 soft-coated wheaten terrier 0.5369669318245405
+Top5: [('n02098105 soft-coated wheaten terrier', 0.5369669318245405), ('n02094114 Norfolk terrier', 0.20074765394101304), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.13653977055057026), ('n02094258 Norwich terrier', 0.030782651043395153), ('n02098413 Lhasa, Lhasa apso', 0.024822157000601575)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02098105 soft-coated wheaten terrier 0.37746472816363835
+Top5: [('n02098105 soft-coated wheaten terrier', 0.37746472816363835), ('n02094114 Norfolk terrier', 0.28107482724395993), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17609030641282278), ('n02105251 briard', 0.049149941294420685), ('n02094258 Norwich terrier', 0.03868339136069695)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02098105 soft-coated wheaten terrier 0.37787638896622927
+Top5: [('n02098105 soft-coated wheaten terrier', 0.37787638896622927), ('n02094114 Norfolk terrier', 0.28278425120852674), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17498480093102986), ('n02105251 briard', 0.048760830132796674), ('n02094258 Norwich terrier', 0.03849220513861386)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02098105 soft-coated wheaten terrier 0.3778757635769693
+Top5: [('n02098105 soft-coated wheaten terrier', 0.3778757635769693), ('n02094114 Norfolk terrier', 0.2827853841617271), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17498422529308555), ('n02105251 briard', 0.04876087406087907), ('n02094258 Norwich terrier', 0.03849235784517273)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02098105 soft-coated wheaten terrier 0.3765182577546075
+Top5: [('n02098105 soft-coated wheaten terrier', 0.3765182577546075), ('n02094114 Norfolk terrier', 0.2824169304488239), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17617435524359012), ('n02105251 briard', 0.04720507671982365), ('n02094258 Norwich terrier', 0.03909995784758937)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02098105 soft-coated wheaten terrier 0.3773435238023518
+Top5: [('n02098105 soft-coated wheaten terrier', 0.3773435238023518), ('n02094114 Norfolk terrier', 0.2843029931868155), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17424265170630684), ('n02105251 briard', 0.047035264971860814), ('n02094258 Norwich terrier', 0.03908277802841084)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02098105 soft-coated wheaten terrier 0.3773426118093467
+Top5: [('n02098105 soft-coated wheaten terrier', 0.3773426118093467), ('n02094114 Norfolk terrier', 0.28430369239989967), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17424260972564615), ('n02105251 briard', 0.04703540513390719), ('n02094258 Norwich terrier', 0.03908289230958493)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02098105 soft-coated wheaten terrier 0.37589362127836423
+Top5: [('n02098105 soft-coated wheaten terrier', 0.37589362127836423), ('n02094114 Norfolk terrier', 0.2830342504020102), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17614492542435228), ('n02105251 briard', 0.04712441624653855), ('n02094258 Norwich terrier', 0.03912296804770707)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02098105 soft-coated wheaten terrier 0.37734299287023926
+Top5: [('n02098105 soft-coated wheaten terrier', 0.37734299287023926), ('n02094114 Norfolk terrier', 0.28430356600239426), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17424251961515796), ('n02105251 briard', 0.04703531592947224), ('n02094258 Norwich terrier', 0.039082707507318445)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02098105 soft-coated wheaten terrier 0.37734274509428417
+Top5: [('n02098105 soft-coated wheaten terrier', 0.37734274509428417), ('n02094114 Norfolk terrier', 0.2843038546728528), ('n02097474 Tibetan terrier, chrysanthemum dog', 0.17424253880053325), ('n02105251 briard', 0.04703529345262934), ('n02094258 Norwich terrier', 0.039082829384620994)]
+
+14.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999998
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999998), ('n02841315 binoculars, field glasses, opera glasses', 2.9440603837324315e-16), ('n02974003 car wheel', 2.8016781793190433e-25), ('n04554684 washer, automatic washer, washing machine', 1.2028485563268715e-31), ('n03065424 coil, spiral, volute, whorl, helix', 1.3195054770069158e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999998
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999998), ('n02841315 binoculars, field glasses, opera glasses', 2.96580333774954e-16), ('n02974003 car wheel', 2.8701198473731206e-25), ('n04554684 washer, automatic washer, washing machine', 1.2100605464417815e-31), ('n03065424 coil, spiral, volute, whorl, helix', 1.3252303127716128e-35)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999999998
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999999998), ('n02841315 binoculars, field glasses, opera glasses', 2.9658698955465775e-16), ('n02974003 car wheel', 2.8701622204815463e-25), ('n04554684 washer, automatic washer, washing machine', 1.210069362795822e-31), ('n03065424 coil, spiral, volute, whorl, helix', 1.3252312241075129e-35)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n01843383 toucan 0.9984294813293816
+Top5: [('n01843383 toucan', 0.9984294813293816), ('n01829413 hornbill', 0.0015575646962006505), ('n02056570 king penguin, Aptenodytes patagonica', 6.088649870061373e-06), ('n01818515 macaw', 3.1628021628373184e-06), ('n02607072 anemone fish', 2.5090690444839974e-06)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n01843383 toucan 0.9983780451927896
+Top5: [('n01843383 toucan', 0.9983780451927896), ('n01829413 hornbill', 0.0016085726254647715), ('n02056570 king penguin, Aptenodytes patagonica', 6.293827440913215e-06), ('n01818515 macaw', 3.2864275624770843e-06), ('n02607072 anemone fish', 2.5403720141059136e-06)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n01843383 toucan 0.9983780338610523
+Top5: [('n01843383 toucan', 0.9983780338610523), ('n01829413 hornbill', 0.001608583955793083), ('n02056570 king penguin, Aptenodytes patagonica', 6.293851609496529e-06), ('n01818515 macaw', 3.286400141292101e-06), ('n02607072 anemone fish', 2.540382921920448e-06)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n01843383 toucan 0.9994127993503372
+Top5: [('n01843383 toucan', 0.9994127993503372), ('n01829413 hornbill', 0.0005824831900949905), ('n02056570 king penguin, Aptenodytes patagonica', 3.059686626727368e-06), ('n01818515 macaw', 1.1571152116182518e-06), ('n02607072 anemone fish', 1.9923826509585378e-07)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n01843383 toucan 0.9994074099299779
+Top5: [('n01843383 toucan', 0.9994074099299779), ('n01829413 hornbill', 0.0005880038437801276), ('n02056570 king penguin, Aptenodytes patagonica', 2.963873210650801e-06), ('n01818515 macaw', 1.1370023093839472e-06), ('n02607072 anemone fish', 1.8858769927857623e-07)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n01843383 toucan 0.9994073990086788
+Top5: [('n01843383 toucan', 0.9994073990086788), ('n01829413 hornbill', 0.0005880148134107557), ('n02056570 king penguin, Aptenodytes patagonica', 2.96382415745136e-06), ('n01818515 macaw', 1.137002250219934e-06), ('n02607072 anemone fish', 1.8859025316901027e-07)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n01843383 toucan 0.9993867735005775
+Top5: [('n01843383 toucan', 0.9993867735005775), ('n01829413 hornbill', 0.0006081573940946465), ('n02056570 king penguin, Aptenodytes patagonica', 3.283123086186261e-06), ('n01818515 macaw', 1.2417397933030914e-06), ('n02607072 anemone fish', 2.2055356924732896e-07)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n01843383 toucan 0.9993823346365898
+Top5: [('n01843383 toucan', 0.9993823346365898), ('n01829413 hornbill', 0.0006127737248937138), ('n02056570 king penguin, Aptenodytes patagonica', 3.167871931315035e-06), ('n01818515 macaw', 1.2009648559686484e-06), ('n02607072 anemone fish', 2.0460005165911407e-07)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n01843383 toucan 0.9993823155578269
+Top5: [('n01843383 toucan', 0.9993823155578269), ('n01829413 hornbill', 0.000612792811846293), ('n02056570 king penguin, Aptenodytes patagonica', 3.167845700367893e-06), ('n01818515 macaw', 1.2009771811443502e-06), ('n02607072 anemone fish', 2.0460321982662083e-07)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n01843383 toucan 0.9993859705359605
+Top5: [('n01843383 toucan', 0.9993859705359605), ('n01829413 hornbill', 0.0006089961988245777), ('n02056570 king penguin, Aptenodytes patagonica', 3.2518650403398537e-06), ('n01818515 macaw', 1.2405618819633845e-06), ('n02607072 anemone fish', 2.1825712771706374e-07)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n01843383 toucan 0.9993823305509121
+Top5: [('n01843383 toucan', 0.9993823305509121), ('n01829413 hornbill', 0.0006127777771372778), ('n02056570 king penguin, Aptenodytes patagonica', 3.167897093851078e-06), ('n01818515 macaw', 1.2009717344787258e-06), ('n02607072 anemone fish', 2.0460057761189474e-07)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n01843383 toucan 0.9993823122482397
+Top5: [('n01843383 toucan', 0.9993823122482397), ('n01829413 hornbill', 0.0006127960905933345), ('n02056570 king penguin, Aptenodytes patagonica', 3.1678663184908054e-06), ('n01818515 macaw', 1.2009837091300997e-06), ('n02607072 anemone fish', 2.0460560455169545e-07)]
+
+15.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.369347907136856e-20), ('n02974003 car wheel', 4.733797491281515e-33), ('n04554684 washer, automatic washer, washing machine', 4.7263718404444024e-35), ('n03814906 necklace', 4.7511018376144807e-39)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.4293804183708028e-20), ('n02974003 car wheel', 4.622866798794659e-33), ('n04554684 washer, automatic washer, washing machine', 4.702986301911478e-35), ('n03814906 necklace', 4.4362960801348764e-39)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.429433478540768e-20), ('n02974003 car wheel', 4.622926793783038e-33), ('n04554684 washer, automatic washer, washing machine', 4.7030924040797797e-35), ('n03814906 necklace', 4.43648646934806e-39)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02676566 acoustic guitar 0.501062960622787
+Top5: [('n02676566 acoustic guitar', 0.501062960622787), ('n03272010 electric guitar', 0.31076443874652443), ('n04536866 violin, fiddle', 0.11721115649671147), ('n02992211 cello, violoncello', 0.04382953213398874), ('n02787622 banjo', 0.007613426849368217)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02676566 acoustic guitar 0.50666573794589
+Top5: [('n02676566 acoustic guitar', 0.50666573794589), ('n03272010 electric guitar', 0.30852809341043597), ('n04536866 violin, fiddle', 0.11534057289132556), ('n02992211 cello, violoncello', 0.04275713670458797), ('n02787622 banjo', 0.007551076405607521)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02676566 acoustic guitar 0.5066661846918105
+Top5: [('n02676566 acoustic guitar', 0.5066661846918105), ('n03272010 electric guitar', 0.30852347697944127), ('n04536866 violin, fiddle', 0.11534376445579662), ('n02992211 cello, violoncello', 0.04275859782376354), ('n02787622 banjo', 0.007551062604160751)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n04536866 violin, fiddle 0.3452618400375212
+Top5: [('n04536866 violin, fiddle', 0.3452618400375212), ('n02676566 acoustic guitar', 0.27040506359204514), ('n03272010 electric guitar', 0.2632433282028517), ('n02992211 cello, violoncello', 0.10258924328521217), ('n02787622 banjo', 0.006522841549418465)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n04536866 violin, fiddle 0.34634951090762334
+Top5: [('n04536866 violin, fiddle', 0.34634951090762334), ('n02676566 acoustic guitar', 0.27135585894641895), ('n03272010 electric guitar', 0.26159082374240317), ('n02992211 cello, violoncello', 0.10240955809417661), ('n02787622 banjo', 0.006450400945553757)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n04536866 violin, fiddle 0.34635104408815615
+Top5: [('n04536866 violin, fiddle', 0.34635104408815615), ('n02676566 acoustic guitar', 0.2713575375226994), ('n03272010 electric guitar', 0.261586965150916), ('n02992211 cello, violoncello', 0.10241064332151431), ('n02787622 banjo', 0.006450388036744681)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n04536866 violin, fiddle 0.35237962716637683
+Top5: [('n04536866 violin, fiddle', 0.35237962716637683), ('n02676566 acoustic guitar', 0.2634804812052089), ('n03272010 electric guitar', 0.26106902961415074), ('n02992211 cello, violoncello', 0.1043802616992766), ('n02787622 banjo', 0.006450325085670327)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n04536866 violin, fiddle 0.3543032186554771
+Top5: [('n04536866 violin, fiddle', 0.3543032186554771), ('n02676566 acoustic guitar', 0.2639003486748582), ('n03272010 electric guitar', 0.25909808662887523), ('n02992211 cello, violoncello', 0.1043042934970799), ('n02787622 banjo', 0.006328841751607497)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n04536866 violin, fiddle 0.3543055494596959
+Top5: [('n04536866 violin, fiddle', 0.3543055494596959), ('n02676566 acoustic guitar', 0.26390133713934727), ('n03272010 electric guitar', 0.2590934440274965), ('n02992211 cello, violoncello', 0.10430613961866697), ('n02787622 banjo', 0.0063288404056930665)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n04536866 violin, fiddle 0.35243150244168503
+Top5: [('n04536866 violin, fiddle', 0.35243150244168503), ('n02676566 acoustic guitar', 0.2635767026969721), ('n03272010 electric guitar', 0.26103469965903675), ('n02992211 cello, violoncello', 0.10429794586666014), ('n02787622 banjo', 0.0064272965706508)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n04536866 violin, fiddle 0.3543057446476282
+Top5: [('n04536866 violin, fiddle', 0.3543057446476282), ('n02676566 acoustic guitar', 0.26389901568477836), ('n03272010 electric guitar', 0.2590963497655173), ('n02992211 cello, violoncello', 0.10430485907693807), ('n02787622 banjo', 0.0063288606468655945)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n04536866 violin, fiddle 0.3543064843646325
+Top5: [('n04536866 violin, fiddle', 0.3543064843646325), ('n02676566 acoustic guitar', 0.2639010639147607), ('n03272010 electric guitar', 0.259092606255731), ('n02992211 cello, violoncello', 0.10430632923958298), ('n02787622 banjo', 0.006328842566424122)]
+
+16.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.1231547775140688e-22), ('n02974003 car wheel', 3.5945734986398316e-33), ('n03814906 necklace', 1.7563324927924406e-36), ('n03065424 coil, spiral, volute, whorl, helix', 2.7134142935093928e-42)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.1494910238923687e-22), ('n02974003 car wheel', 3.6962389412251105e-33), ('n03814906 necklace', 1.8007004274529956e-36), ('n03065424 coil, spiral, volute, whorl, helix', 2.824723447857961e-42)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 1.1494576930147108e-22), ('n02974003 car wheel', 3.6961171036796376e-33), ('n03814906 necklace', 1.8006213553678057e-36), ('n03065424 coil, spiral, volute, whorl, helix', 2.8246243029746795e-42)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n09835506 ballplayer, baseball player 0.6947746379387373
+Top5: [('n09835506 ballplayer, baseball player', 0.6947746379387373), ('n02799071 baseball', 0.20827187846962797), ("n03970156 plunger, plumber's helper", 0.010989929340149624), ('n03250847 drumstick', 0.007602829151244896), ('n04485082 tripod', 0.007249479558012324)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n09835506 ballplayer, baseball player 0.6945232414028508
+Top5: [('n09835506 ballplayer, baseball player', 0.6945232414028508), ('n02799071 baseball', 0.20838292949315462), ("n03970156 plunger, plumber's helper", 0.010925883079269541), ('n03250847 drumstick', 0.007472750527093967), ('n04485082 tripod', 0.007380696450829946)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n09835506 ballplayer, baseball player 0.694523442346276
+Top5: [('n09835506 ballplayer, baseball player', 0.694523442346276), ('n02799071 baseball', 0.2083828389027434), ("n03970156 plunger, plumber's helper", 0.010925821720056907), ('n03250847 drumstick', 0.007472768521132321), ('n04485082 tripod', 0.007380657287313909)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n09835506 ballplayer, baseball player 0.7497624208089889
+Top5: [('n09835506 ballplayer, baseball player', 0.7497624208089889), ('n02799071 baseball', 0.2267476929535604), ('n04485082 tripod', 0.0033761594026876377), ("n03970156 plunger, plumber's helper", 0.0019129978158795827), ('n04067472 reel', 0.001593898989991217)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n09835506 ballplayer, baseball player 0.7498244447508612
+Top5: [('n09835506 ballplayer, baseball player', 0.7498244447508612), ('n02799071 baseball', 0.22649474040719353), ('n04485082 tripod', 0.0034373850033233852), ("n03970156 plunger, plumber's helper", 0.0018944446937428474), ('n04067472 reel', 0.0016168864732666452)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n09835506 ballplayer, baseball player 0.7498245670124543
+Top5: [('n09835506 ballplayer, baseball player', 0.7498245670124543), ('n02799071 baseball', 0.22649434837434954), ('n04485082 tripod', 0.0034374572471394054), ("n03970156 plunger, plumber's helper", 0.0018944646704338202), ('n04067472 reel', 0.001616901793534588)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n09835506 ballplayer, baseball player 0.7495427989728138
+Top5: [('n09835506 ballplayer, baseball player', 0.7495427989728138), ('n02799071 baseball', 0.2258309341520205), ('n04485082 tripod', 0.003533465249891861), ("n03970156 plunger, plumber's helper", 0.002012110357924618), ('n04067472 reel', 0.0016725056855947302)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n09835506 ballplayer, baseball player 0.7500467634681455
+Top5: [('n09835506 ballplayer, baseball player', 0.7500467634681455), ('n02799071 baseball', 0.22519329586058986), ('n04485082 tripod', 0.0035919163424610696), ("n03970156 plunger, plumber's helper", 0.0019840305651656863), ('n04067472 reel', 0.0016971226098292118)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n09835506 ballplayer, baseball player 0.7500471726853705
+Top5: [('n09835506 ballplayer, baseball player', 0.7500471726853705), ('n02799071 baseball', 0.2251927902363683), ('n04485082 tripod', 0.0035919354819846554), ("n03970156 plunger, plumber's helper", 0.0019840300148701263), ('n04067472 reel', 0.0016971470967060904)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n09835506 ballplayer, baseball player 0.7492595111679052
+Top5: [('n09835506 ballplayer, baseball player', 0.7492595111679052), ('n02799071 baseball', 0.22606992403497636), ('n04485082 tripod', 0.003541124904962787), ("n03970156 plunger, plumber's helper", 0.0020104311992182405), ('n04067472 reel', 0.0016774817167828902)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n09835506 ballplayer, baseball player 0.7500470640551571
+Top5: [('n09835506 ballplayer, baseball player', 0.7500470640551571), ('n02799071 baseball', 0.22519292420257964), ('n04485082 tripod', 0.0035919120287117275), ("n03970156 plunger, plumber's helper", 0.0019840380818834974), ('n04067472 reel', 0.0016971287184020258)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n09835506 ballplayer, baseball player 0.7500472303916583
+Top5: [('n09835506 ballplayer, baseball player', 0.7500472303916583), ('n02799071 baseball', 0.2251927675416311), ('n04485082 tripod', 0.003591928488309917), ("n03970156 plunger, plumber's helper", 0.001984024618203986), ('n04067472 reel', 0.0016971470774266133)]
+
+17.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.360552025384783e-17), ('n02974003 car wheel', 2.638594498070731e-25), ('n03814906 necklace', 1.6169962190461966e-27), ('n04554684 washer, automatic washer, washing machine', 3.7748640445899116e-28)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.375229959365482e-17), ('n02974003 car wheel', 2.5861770691818755e-25), ('n03814906 necklace', 1.5575653178852173e-27), ('n04554684 washer, automatic washer, washing machine', 3.777072049922931e-28)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.3752870365250224e-17), ('n02974003 car wheel', 2.5862351796067748e-25), ('n03814906 necklace', 1.5575962682753233e-27), ('n04554684 washer, automatic washer, washing machine', 3.7771459611992325e-28)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02087394 Rhodesian ridgeback 0.6374198383465429
+Top5: [('n02087394 Rhodesian ridgeback', 0.6374198383465429), ('n02108089 boxer', 0.23809294935596612), ('n02090379 redbone', 0.07133997142835573), ('n02088466 bloodhound, sleuthhound', 0.01941263263040637), ('n02108422 bull mastiff', 0.011865772178506442)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02087394 Rhodesian ridgeback 0.6370795703927012
+Top5: [('n02087394 Rhodesian ridgeback', 0.6370795703927012), ('n02108089 boxer', 0.23836428581851857), ('n02090379 redbone', 0.07158893736238486), ('n02088466 bloodhound, sleuthhound', 0.019762638645686434), ('n02108422 bull mastiff', 0.011747361536813042)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02087394 Rhodesian ridgeback 0.6370792242013873
+Top5: [('n02087394 Rhodesian ridgeback', 0.6370792242013873), ('n02108089 boxer', 0.23836563572167643), ('n02090379 redbone', 0.07158839278487397), ('n02088466 bloodhound, sleuthhound', 0.019762286322538188), ('n02108422 bull mastiff', 0.011747323533942205)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02087394 Rhodesian ridgeback 0.575257146260459
+Top5: [('n02087394 Rhodesian ridgeback', 0.575257146260459), ('n02108089 boxer', 0.3449271791541734), ('n02090379 redbone', 0.049442406230874654), ('n02088466 bloodhound, sleuthhound', 0.011539884519455403), ('n02108422 bull mastiff', 0.008049572214690007)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02087394 Rhodesian ridgeback 0.572900633782219
+Top5: [('n02087394 Rhodesian ridgeback', 0.572900633782219), ('n02108089 boxer', 0.3476707545282761), ('n02090379 redbone', 0.049196523506726896), ('n02088466 bloodhound, sleuthhound', 0.011637213850487556), ('n02108422 bull mastiff', 0.008013234138809538)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02087394 Rhodesian ridgeback 0.5728990257467088
+Top5: [('n02087394 Rhodesian ridgeback', 0.5728990257467088), ('n02108089 boxer', 0.34767211830185846), ('n02090379 redbone', 0.04919674754840458), ('n02088466 bloodhound, sleuthhound', 0.011637177325897285), ('n02108422 bull mastiff', 0.00801320052627216)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02087394 Rhodesian ridgeback 0.5625164766632942
+Top5: [('n02087394 Rhodesian ridgeback', 0.5625164766632942), ('n02108089 boxer', 0.35662118069152166), ('n02090379 redbone', 0.04980245500781372), ('n02088466 bloodhound, sleuthhound', 0.011740368089483522), ('n02108422 bull mastiff', 0.008165151492212726)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02087394 Rhodesian ridgeback 0.5614611230788653
+Top5: [('n02087394 Rhodesian ridgeback', 0.5614611230788653), ('n02108089 boxer', 0.35762292454914385), ('n02090379 redbone', 0.0499934306971751), ('n02088466 bloodhound, sleuthhound', 0.011927920408793057), ('n02108422 bull mastiff', 0.00805147450292983)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02087394 Rhodesian ridgeback 0.5614578222995164
+Top5: [('n02087394 Rhodesian ridgeback', 0.5614578222995164), ('n02108089 boxer', 0.35762591200458593), ('n02090379 redbone', 0.0499936994749272), ('n02088466 bloodhound, sleuthhound', 0.011927899879031964), ('n02108422 bull mastiff', 0.008051447039351477)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02087394 Rhodesian ridgeback 0.5645833491640045
+Top5: [('n02087394 Rhodesian ridgeback', 0.5645833491640045), ('n02108089 boxer', 0.35422042459182007), ('n02090379 redbone', 0.05010835448070542), ('n02088466 bloodhound, sleuthhound', 0.01179859857121615), ('n02108422 bull mastiff', 0.008134365536766764)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02087394 Rhodesian ridgeback 0.5614604000638936
+Top5: [('n02087394 Rhodesian ridgeback', 0.5614604000638936), ('n02108089 boxer', 0.357623858389417), ('n02090379 redbone', 0.0499933079052009), ('n02088466 bloodhound, sleuthhound', 0.011927867866361528), ('n02108422 bull mastiff', 0.008051472457783652)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02087394 Rhodesian ridgeback 0.5614573772653723
+Top5: [('n02087394 Rhodesian ridgeback', 0.5614573772653723), ('n02108089 boxer', 0.35762639993538214), ('n02090379 redbone', 0.04999362284991069), ('n02088466 bloodhound, sleuthhound', 0.011927894686666702), ('n02108422 bull mastiff', 0.00805147658151337)]
+
+18.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 4.3808513377345776e-26), ('n02974003 car wheel', 2.7302133884955037e-40), ('n04554684 washer, automatic washer, washing machine', 1.7327305036502481e-43), ('n03065424 coil, spiral, volute, whorl, helix', 4.432982193881061e-49)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 4.627922109394709e-26), ('n02974003 car wheel', 2.8183245828652883e-40), ('n04554684 washer, automatic washer, washing machine', 1.8034878580589762e-43), ('n03065424 coil, spiral, volute, whorl, helix', 4.55213723840765e-49)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 4.627792512752374e-26), ('n02974003 car wheel', 2.8183158032039386e-40), ('n04554684 washer, automatic washer, washing machine', 1.803535841521865e-43), ('n03065424 coil, spiral, volute, whorl, helix', 4.5522925001050346e-49)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02013706 limpkin, Aramus pictus 0.9998704418813031
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9998704418813031), ('n01514859 hen', 3.9450976957730145e-05), ('n02033041 dowitcher', 1.5449605355506693e-05), ('n01806567 quail', 1.2520660653305063e-05), ('n01807496 partridge', 1.0330315639384105e-05)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02013706 limpkin, Aramus pictus 0.9998738115872566
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9998738115872566), ('n01514859 hen', 3.8436153753413514e-05), ('n02033041 dowitcher', 1.522517976333614e-05), ('n01806567 quail', 1.2113336253267967e-05), ('n01807496 partridge', 9.991909422714194e-06)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02013706 limpkin, Aramus pictus 0.9998738130395443
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9998738130395443), ('n01514859 hen', 3.843568292804133e-05), ('n02033041 dowitcher', 1.5224988214108441e-05), ('n01806567 quail', 1.2113122415772486e-05), ('n01807496 partridge', 9.991744528324005e-06)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02013706 limpkin, Aramus pictus 0.9997253544072875
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997253544072875), ('n01514859 hen', 0.00010113203824989386), ('n01807496 partridge', 2.8258200465464086e-05), ('n02033041 dowitcher', 2.318083777812244e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.95274900448462e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02013706 limpkin, Aramus pictus 0.999730700486721
+Top5: [('n02013706 limpkin, Aramus pictus', 0.999730700486721), ('n01514859 hen', 9.886082524647054e-05), ('n01807496 partridge', 2.7591047942998164e-05), ('n02033041 dowitcher', 2.302552072011961e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.9085063516240933e-05)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02013706 limpkin, Aramus pictus 0.9997307024570364
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997307024570364), ('n01514859 hen', 9.885970476200197e-05), ('n01807496 partridge', 2.759063136003074e-05), ('n02033041 dowitcher', 2.302557752617935e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.9084817030586306e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02013706 limpkin, Aramus pictus 0.9997199458697079
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997199458697079), ('n01514859 hen', 0.00010362509504928363), ('n01807496 partridge', 2.8970698399660626e-05), ('n02033041 dowitcher', 2.322492527466715e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 2.0080711228753342e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02013706 limpkin, Aramus pictus 0.9997262707567822
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997262707567822), ('n01514859 hen', 0.00010119296297096237), ('n01807496 partridge', 2.8241076145962314e-05), ('n02033041 dowitcher', 2.2967297313544202e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.9563646568754014e-05)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02013706 limpkin, Aramus pictus 0.9997262747680757
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997262747680757), ('n01514859 hen', 0.00010119147957783426), ('n01807496 partridge', 2.824046631649183e-05), ('n02033041 dowitcher', 2.2967045198762402e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.9563250087836452e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02013706 limpkin, Aramus pictus 0.9997214568755558
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997214568755558), ('n01514859 hen', 0.00010308754936968018), ('n01807496 partridge', 2.883347056413078e-05), ('n02033041 dowitcher', 2.3066578241171456e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.997962288254304e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02013706 limpkin, Aramus pictus 0.9997262706738006
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997262706738006), ('n01514859 hen', 0.00010119295611484889), ('n01807496 partridge', 2.8241100384833e-05), ('n02033041 dowitcher', 2.2967307682104403e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.9563685453527067e-05)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02013706 limpkin, Aramus pictus 0.9997262739497177
+Top5: [('n02013706 limpkin, Aramus pictus', 0.9997262739497177), ('n01514859 hen', 0.00010119172110423192), ('n01807496 partridge', 2.8240618675480625e-05), ('n02033041 dowitcher', 2.2967075761473872e-05), ('n01797886 ruffed grouse, partridge, Bonasa umbellus', 1.95633491734384e-05)]
+
+19.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.9152585010656403e-22), ('n02974003 car wheel', 2.4884014291416724e-30), ('n04554684 washer, automatic washer, washing machine', 4.8543404260600966e-32), ('n03814906 necklace', 1.518684934737984e-36)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.99002571713223e-22), ('n02974003 car wheel', 2.5078004175314196e-30), ('n04554684 washer, automatic washer, washing machine', 4.8548706652019305e-32), ('n03814906 necklace', 1.5217102429418877e-36)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 1.0
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 1.0), ('n02841315 binoculars, field glasses, opera glasses', 3.9900123624691444e-22), ('n02974003 car wheel', 2.507776235095734e-30), ('n04554684 washer, automatic washer, washing machine', 4.8548509860345105e-32), ('n03814906 necklace', 1.5216911099003425e-36)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02123394 Persian cat 0.9928046631391803
+Top5: [('n02123394 Persian cat', 0.9928046631391803), ('n02127052 lynx, catamount', 0.00540304526859206), ('n02123045 tabby, tabby cat', 0.0006169512729220235), ('n02328150 Angora, Angora rabbit', 0.00047153614489597537), ('n02112018 Pomeranian', 0.00014841320665826948)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02123394 Persian cat 0.9925948411280489
+Top5: [('n02123394 Persian cat', 0.9925948411280489), ('n02127052 lynx, catamount', 0.00555395685694677), ('n02123045 tabby, tabby cat', 0.0006416130560388826), ('n02328150 Angora, Angora rabbit', 0.000470550751063755), ('n02112018 Pomeranian', 0.00015512749357241953)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02123394 Persian cat 0.9925948396578621
+Top5: [('n02123394 Persian cat', 0.9925948396578621), ('n02127052 lynx, catamount', 0.005553944526012214), ('n02123045 tabby, tabby cat', 0.0006416176037497117), ('n02328150 Angora, Angora rabbit', 0.00047055085686145356), ('n02112018 Pomeranian', 0.0001551297927613243)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02123394 Persian cat 0.9955533109550176
+Top5: [('n02123394 Persian cat', 0.9955533109550176), ('n02127052 lynx, catamount', 0.003063171098223091), ('n02328150 Angora, Angora rabbit', 0.0005790756199784768), ('n02123045 tabby, tabby cat', 0.0002696684148371379), ('n02086079 Pekinese, Pekingese, Peke', 0.0001520696412288957)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02123394 Persian cat 0.9954166447030551
+Top5: [('n02123394 Persian cat', 0.9954166447030551), ('n02127052 lynx, catamount', 0.003167751880193863), ('n02328150 Angora, Angora rabbit', 0.0005731221544969287), ('n02123045 tabby, tabby cat', 0.00028212170572314884), ('n02086079 Pekinese, Pekingese, Peke', 0.00016069607245953343)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02123394 Persian cat 0.9954165600378754
+Top5: [('n02123394 Persian cat', 0.9954165600378754), ('n02127052 lynx, catamount', 0.003167815184908601), ('n02328150 Angora, Angora rabbit', 0.00057312534336423), ('n02123045 tabby, tabby cat', 0.0002821278614651212), ('n02086079 Pekinese, Pekingese, Peke', 0.0001606991932091668)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02123394 Persian cat 0.995650677306619
+Top5: [('n02123394 Persian cat', 0.995650677306619), ('n02127052 lynx, catamount', 0.003022805234018902), ('n02328150 Angora, Angora rabbit', 0.0005513849826962027), ('n02123045 tabby, tabby cat', 0.00026468328628667914), ('n02086079 Pekinese, Pekingese, Peke', 0.00014659999812085243)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02123394 Persian cat 0.9955024425678708
+Top5: [('n02123394 Persian cat', 0.9955024425678708), ('n02127052 lynx, catamount', 0.0031405081584288423), ('n02328150 Angora, Angora rabbit', 0.000544418715131694), ('n02123045 tabby, tabby cat', 0.0002761674073343025), ('n02086079 Pekinese, Pekingese, Peke', 0.00015546727873886528)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02123394 Persian cat 0.9955023988110775
+Top5: [('n02123394 Persian cat', 0.9955023988110775), ('n02127052 lynx, catamount', 0.003140540306650126), ('n02328150 Angora, Angora rabbit', 0.0005444173743799236), ('n02123045 tabby, tabby cat', 0.00027617118527667835), ('n02086079 Pekinese, Pekingese, Peke', 0.0001554705034377568)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02123394 Persian cat 0.9956713253832612
+Top5: [('n02123394 Persian cat', 0.9956713253832612), ('n02127052 lynx, catamount', 0.0030096867384392517), ('n02328150 Angora, Angora rabbit', 0.0005472585632705936), ('n02123045 tabby, tabby cat', 0.0002635814449429644), ('n02086079 Pekinese, Pekingese, Peke', 0.0001461921920350458)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02123394 Persian cat 0.9955024157562972
+Top5: [('n02123394 Persian cat', 0.9955024157562972), ('n02127052 lynx, catamount', 0.003140535902541891), ('n02328150 Angora, Angora rabbit', 0.0005444144003787507), ('n02123045 tabby, tabby cat', 0.0002761704497639449), ('n02086079 Pekinese, Pekingese, Peke', 0.00015546650568790777)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02123394 Persian cat 0.995502385748336
+Top5: [('n02123394 Persian cat', 0.995502385748336), ('n02127052 lynx, catamount', 0.003140552241716154), ('n02328150 Angora, Angora rabbit', 0.0005444159776460853), ('n02123045 tabby, tabby cat', 0.00027617244069311957), ('n02086079 Pekinese, Pekingese, Peke', 0.0001554707925452917)]
+
+20.jpeg
+
+Weights: Q1.0.5 Data: Q1.8.0
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999992656
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999992656), ('n02841315 binoculars, field glasses, opera glasses', 7.335024833272102e-13), ('n02974003 car wheel', 9.29224732299962e-16), ('n03814906 necklace', 5.296260422549624e-18), ('n03584254 iPod', 1.1121437339181532e-21)]
+
+Weights: Q1.0.5 Data: Q1.8.10
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999992557
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999992557), ('n02841315 binoculars, field glasses, opera glasses', 7.432020192835634e-13), ('n02974003 car wheel', 9.794812804226323e-16), ('n03814906 necklace', 5.471997767293684e-18), ('n03584254 iPod', 1.1753024744388258e-21)]
+
+Weights: Q1.0.5 Data: Q1.8.18
+Top1: n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system 0.9999999999992558
+Top5: [('n03691459 loudspeaker, speaker, speaker unit, loudspeaker system, speaker system', 0.9999999999992558), ('n02841315 binoculars, field glasses, opera glasses', 7.432025884089373e-13), ('n02974003 car wheel', 9.79486408749683e-16), ('n03814906 necklace', 5.472066413387589e-18), ('n03584254 iPod', 1.175323215206386e-21)]
+
+Weights: Q1.0.7 Data: Q1.8.0
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9368888630808182
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9368888630808182), ('n02169497 leaf beetle, chrysomelid', 0.055355494559249985), ('n02206856 bee', 0.0020314038354191967), ('n02219486 ant, emmet, pismire', 0.0009299814961703771), ('n01944390 snail', 0.0003279362432699509)]
+
+Weights: Q1.0.7 Data: Q1.8.10
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9361266176292136
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9361266176292136), ('n02169497 leaf beetle, chrysomelid', 0.05575879250024673), ('n02206856 bee', 0.00208917712868663), ('n02219486 ant, emmet, pismire', 0.0009534563510939536), ('n01944390 snail', 0.00034250572842547895)]
+
+Weights: Q1.0.7 Data: Q1.8.18
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.93612671192844
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.93612671192844), ('n02169497 leaf beetle, chrysomelid', 0.055758775901616736), ('n02206856 bee', 0.002089151110312558), ('n02219486 ant, emmet, pismire', 0.0009534343703672484), ('n01944390 snail', 0.00034250801507922584)]
+
+Weights: Q1.0.12 Data: Q1.8.0
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9233259642667494
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9233259642667494), ('n02169497 leaf beetle, chrysomelid', 0.07265139023596048), ('n02206856 bee', 0.0011039649589378428), ('n02219486 ant, emmet, pismire', 0.00035819246149383876), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00019754372032986997)]
+
+Weights: Q1.0.12 Data: Q1.8.10
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9222244533348319
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9222244533348319), ('n02169497 leaf beetle, chrysomelid', 0.07347215238235376), ('n02206856 bee', 0.0011492629512421062), ('n02219486 ant, emmet, pismire', 0.0003753569560760284), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00021248702457687903)]
+
+Weights: Q1.0.12 Data: Q1.8.18
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9222244322169605
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9222244322169605), ('n02169497 leaf beetle, chrysomelid', 0.07347210255232846), ('n02206856 bee', 0.0011492721768285082), ('n02219486 ant, emmet, pismire', 0.0003753558407417229), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00021248952565157227)]
+
+Weights: Q1.0.25 Data: Q1.8.0
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9224882512142883
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9224882512142883), ('n02169497 leaf beetle, chrysomelid', 0.07337678792645967), ('n02206856 bee', 0.0011277172985399197), ('n02219486 ant, emmet, pismire', 0.0003754719473857993), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00020305271531980025)]
+
+Weights: Q1.0.25 Data: Q1.8.10
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.921263606942247
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.921263606942247), ('n02169497 leaf beetle, chrysomelid', 0.07429854361059746), ('n02206856 bee', 0.0011789934444996924), ('n02219486 ant, emmet, pismire', 0.0003947865795788879), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00021856768360047632)]
+
+Weights: Q1.0.25 Data: Q1.8.18
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9212635465692978
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9212635465692978), ('n02169497 leaf beetle, chrysomelid', 0.07429852007619249), ('n02206856 bee', 0.0011790002153419738), ('n02219486 ant, emmet, pismire', 0.0003947870814034841), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00021857205207902934)]
+
+Weights: Q1.0.31 Data: Q1.8.0
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9223973146602287
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9223973146602287), ('n02169497 leaf beetle, chrysomelid', 0.07348352165107307), ('n02206856 bee', 0.0011169220094728962), ('n02219486 ant, emmet, pismire', 0.0003748923945072283), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00020330222816346586)]
+
+Weights: Q1.0.31 Data: Q1.8.10
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9212636920323966
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9212636920323966), ('n02169497 leaf beetle, chrysomelid', 0.07429846633692845), ('n02206856 bee', 0.0011789877258744639), ('n02219486 ant, emmet, pismire', 0.00039478678939183954), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.00021856762999806372)]
+
+Weights: Q1.0.31 Data: Q1.8.18
+Top1: n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle 0.9212634440891865
+Top5: [('n02165456 ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle', 0.9212634440891865), ('n02169497 leaf beetle, chrysomelid', 0.07429862150289995), ('n02206856 bee', 0.0011790000333239275), ('n02219486 ant, emmet, pismire', 0.0003947866789038596), ("n02268443 dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk", 0.0002185722789553318)]
+
+Time Taken : 117191.08285999298
+
