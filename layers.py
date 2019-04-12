@@ -2,7 +2,8 @@ import tensorflow as tf
 import numpy as np
 import utils
 
-VGG_MEAN = [103.939, 116.779, 123.68]
+MEAN = [103.939, 116.779, 123.68]
+NORMALIZER = 0.017
 
 class Shufflenet:
 	def __init__(self):
@@ -99,21 +100,22 @@ class Shufflenet:
 
 	def build(self, image):
 		red, green, blue = tf.split(axis=3, num_or_size_splits=3, value=image)
-		bgr = tf.concat(axis=3, values=[blue - VGG_MEAN[0], green - VGG_MEAN[1], red - VGG_MEAN[2]])
+		bgr = tf.concat(axis=3, values=[(blue - MEAN[0])*NORMALIZER, (green - MEAN[1])*NORMALIZER, (red - MEAN[2])*NORMALIZER])
 #		bgr = tf.transpose(bgr, perm=[0, 3, 1, 2])
 		stage1 = self.shufflenet_stage1(bgr)
 		stage2 = self.shufflenet_stage(stage1, 'stage2', repeat = 3, num_groups = 8)
 		stage3 = self.shufflenet_stage(stage2, 'stage3', repeat = 7, num_groups = 8)
 		stage4 = self.shufflenet_stage(stage3, 'stage4', repeat = 3, num_groups = 8)
 #		format_conv = tf.transpose(stage4, perm=[0, 2, 3, 1])
-		g_pool = tf.nn.max_pool(stage4, [1, 7, 7, 1], strides = [1, 1, 1, 1], padding = 'VALID', data_format = 'NHWC')
+		g_pool = tf.nn.avg_pool(stage4, [1, 7, 7, 1], strides = [1, 1, 1, 1], padding = 'VALID', data_format = 'NHWC')
 #		g_pool = tf.transpose(g_pool, perm=[0, 3, 1, 2])
 		logits = self.fc_layer(g_pool)
+		logits = tf.nn.softmax(logits)
 		return logits
 
 def main():
 	act = tf.constant(np.arange(224*224*3).reshape((1, 3, 224, 224)), dtype=float)
-	img = utils.load_image('./test_data/4.JPEG')
+	img = utils.load_image('./test_data/32.JPEG')
 	img = img.reshape((1, 224, 224, 3))
 	img = img * 255.0
 	print(type(img[0, 0, 0, 0]))
