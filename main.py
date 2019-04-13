@@ -31,5 +31,9 @@ def main():
                         export_graph.add_graph(sess.graph)
                         export_graph.add_run_metadata(run_metadata, 'zucc')
 
+                        opts = tf.profiler.ProfileOptionBuilder.float_operation()
+                        flops = tf.profiler.profile(sess.graph, run_meta=run_metadata, cmd='op', options=opts)
+                        print("FLOPS: " + str(flops.total_float_ops))
+
 if __name__ == '__main__':
         main()

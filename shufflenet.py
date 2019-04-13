@@ -1,5 +1,6 @@
 import tensorflow as tf
 import numpy as np
+import time
 
 SHUFFLENET_MEAN = [103.939, 116.779, 123.68]
 NORMALIZER = 0.017
@@ -40,12 +41,12 @@ class Shufflenet:
 		with tf.name_scope(name):
 			layer_name = str(stage) + '/' + str(block) + '/' if stage is not '' else ''
 			layer_name = layer_name + 'conv1/bn/' if layer == 'conv1' else layer_name + layer+'_bn/'
-			mean = self.trained_model[layer_name + 'mean/EMA:0']
-			variance = self.trained_model[layer_name + 'variance/EMA:0']
-			gamma = self.trained_model[layer_name + 'gamma:0']
-			beta = self.trained_model[layer_name + 'beta:0']
+#			mean = self.trained_model[layer_name + 'mean/EMA:0']
+#			variance = self.trained_model[layer_name + 'variance/EMA:0']
+#			gamma = self.trained_model[layer_name + 'gamma:0']
+#			beta = self.trained_model[layer_name + 'beta:0']
 #			bn_out = tf.nn.batch_normalization(activations, mean.reshape(1, 1, 1, mean.shape[0]), variance.reshape(1, 1, 1, variance.shape[0]), beta.reshape(1, 1, 1, beta.shape[0]), gamma.reshape(1, 1, 1, gamma.shape[0]), 0.0001, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
-			bn_out = tf.nn.batch_normalization(activations, mean, variance, beta, gamma, 0.01, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
+			bn_out = tf.nn.batch_normalization(activations, self.trained_model[layer_name + 'mean/EMA:0'], self.trained_model[layer_name + 'variance/EMA:0'], self.trained_model[layer_name + 'beta:0'], self.trained_model[layer_name + 'gamma:0'], variance_epsilon=0.001, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
 			return bn_out
 
 	def channel_shuffle(self, activations, num_groups):
