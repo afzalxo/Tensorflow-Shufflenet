@@ -5,9 +5,11 @@ SHUFFLENET_MEAN = [103.939, 116.779, 123.68]
 NORMALIZER = 0.017
 
 class Shufflenet:
-	def __init__(self):
-		self.trained_model = np.load('../ShuffleNetV1-1x-8g.npz', encoding = 'latin1')
+	#Load pretrained model on initialization. Model downloaded from http://models.tensorpack.com/ImageNetModels/ShuffleNetV1-1x-g=8.npz
+	def __init__(self, model_loc):
+		self.trained_model = np.load(model_loc, encoding = 'latin1')
 		print("npz file loaded")
+#		Uncomment below 2 lines to check model entries (Kernels for conv), (mean, variance, beta and gamma for BN) and (weights and biases) for final FC layer
 #		for x in self.trained_model.files:
 #			print(x + " " + str(self.trained_model[x].shape))
 
@@ -19,7 +21,7 @@ class Shufflenet:
 		kernels_split = tf.split(kernels, num_or_size_splits = num_groups, axis = 3)
 		convs = []
 		for grp in range(0, num_groups):
-			convs.append(tf.nn.conv2d(act_split[grp], kernels_split[grp], padding = 'SAME', strides = [1, 1, 1, 1], data_format = 'NHWC'))
+			convs.append(tf.nn.conv2d(act_split[grp], kernels_split[grp], padding = 'SAME', strides = [1, 1, 1, 1], data_format = 'NHWC', name='pw_gconv_' + str(grp)))
 		return tf.concat(convs, axis = 3)
 
 	# Depth-wise convolution: Assumes input activations are of shape [B, H, W, C], Assumes depthwise multiplier of 1
@@ -29,7 +31,7 @@ class Shufflenet:
 		layer_name = str(stage) + '/' + str(block) + '/dconv/W:0'
 		kernels = self.trained_model[layer_name]
 		kernel_size = kernels.shape[0]
-		conv_result = tf.nn.depthwise_conv2d(activations, kernels, [1, stride, stride, 1], padding = padding, data_format = 'NHWC')
+		conv_result = tf.nn.depthwise_conv2d(activations, kernels, [1, stride, stride, 1], padding = padding, data_format = 'NHWC', name='dw_conv_' + stage + '_' + block)
 		return conv_result
 
 	def batch_normalization(self, activations, stage, block, layer):
@@ -39,7 +41,7 @@ class Shufflenet:
 		variance = self.trained_model[layer_name + 'variance/EMA:0']
 		gamma = self.trained_model[layer_name + 'gamma:0']
 		beta = self.trained_model[layer_name + 'beta:0']
-		bn_out = tf.nn.batch_normalization(activations, mean.reshape(1, 1, 1, mean.shape[0]), variance.reshape(1, 1, 1, variance.shape[0]), beta.reshape(1, 1, 1, beta.shape[0]), gamma.reshape(1, 1, 1, gamma.shape[0]), 0.0001)
+		bn_out = tf.nn.batch_normalization(activations, mean.reshape(1, 1, 1, mean.shape[0]), variance.reshape(1, 1, 1, variance.shape[0]), beta.reshape(1, 1, 1, beta.shape[0]), gamma.reshape(1, 1, 1, gamma.shape[0]), 0.0001, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
 		return bn_out
 
 	def channel_shuffle(self, activations, num_groups):
@@ -52,7 +54,7 @@ class Shufflenet:
 		l = tf.transpose(l, perm = [0, 2, 3, 1])
 		return l
 
-	def shufflenet_unit(self, activations, stage, block, stride, num_groups):
+	def shufflenet_unit(self, activations, stage, block, stride, num_groups=8):
 		residual = activations
 		num_split = num_groups if activations.shape[3] > 24 else 1
 		pwgconv1 = self.pw_gconv(activations, stage, block, 'conv1', num_split)
@@ -65,12 +67,12 @@ class Shufflenet:
 		bnconv2 = self.batch_normalization(pwgconv2, stage, block, 'conv2')
 
 		if stride == 1:
-			return tf.nn.relu(bnconv2 + residual)
+			return tf.nn.relu(bnconv2 + residual, name = 'relu_' + stage + '_' + block)
 		else:
-			residual = tf.nn.avg_pool(residual, [1, 3, 3, 1], strides = [1, 2, 2, 1], padding = 'SAME', data_format = 'NHWC')
-			return tf.concat([residual, tf.nn.relu(bnconv2)], axis = 3)
+			residual = tf.nn.avg_pool(residual, [1, 3, 3, 1], strides = [1, 2, 2, 1], padding = 'SAME', data_format = 'NHWC', name = 'avg_pool_' + stage + '_' + block)
+			return tf.concat([residual, tf.nn.relu(bnconv2)], axis = 3, name = 'concat_' + stage + '_' + block)
 
-	def shufflenet_stage(self, activations, stage, repeat, num_groups):
+	def shufflenet_stage(self, activations, stage, repeat, num_groups=8):
 		first_block = self.shufflenet_unit(activations, stage, 'block0', stride = 2, num_groups = 8)
 		res = first_block
 		for b in range(1, repeat+1):
@@ -79,9 +81,9 @@ class Shufflenet:
 
 	def shufflenet_stage1(self, activations):
 		kernels = self.trained_model['conv1/W:0']
-		res = tf.nn.conv2d(activations, kernels, padding = 'SAME', strides = [1, 2, 2, 1], data_format = 'NHWC')
+		res = tf.nn.conv2d(activations, kernels, padding = 'SAME', strides = [1, 2, 2, 1], data_format = 'NHWC', name = 'Conv1')
 		res = self.batch_normalization(res, '', '', 'conv1')
-		res = tf.nn.max_pool(res, [1, 3, 3, 1], strides = [1, 2, 2, 1], padding = 'SAME', data_format = 'NHWC')
+		res = tf.nn.max_pool(res, [1, 3, 3, 1], strides = [1, 2, 2, 1], padding = 'SAME', data_format = 'NHWC', name = 'MaxPool1')
 		return res
 
 	def fc_layer(self, activations):
