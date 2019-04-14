@@ -67,7 +67,7 @@ class Shufflenet:
 			return bn_out
 
 	'''
-	Channel Shuffle Operation.
+	Channel Shuffle Operation. (Credits to Tensorpack Shufflenet Implementation https://github.com/tensorpack/tensorpack/blob/master/examples/ImageNetModels/shufflenet.py)
 	Inputs:		Activations of shape [N, H, W, C], num_groups = 8,
 			Name to give to the node in tensorboard graph summary.
 	Outputs		Activations after ch shuffle op.
