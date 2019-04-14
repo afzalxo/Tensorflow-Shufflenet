@@ -7,7 +7,7 @@ import utils
 def main():
 
         img = utils.load_image('./test_data/32.JPEG')
-        model_path = './ShuffleNetV1-1x-8g.npz'
+        model_path = '../ShuffleNetV1-1x-8g.npz'
 
         img = img.reshape((1, 224, 224, 3))
         img = np.float32(img) * 255.0
@@ -31,9 +31,9 @@ def main():
                         export_graph.add_graph(sess.graph)
                         export_graph.add_run_metadata(run_metadata, 'zucc')
 
-                        opts = tf.profiler.ProfileOptionBuilder.float_operation()
-                        flops = tf.profiler.profile(sess.graph, run_meta=run_metadata, cmd='op', options=opts)
-                        print("FLOPS: " + str(flops.total_float_ops))
+#                        opts = tf.profiler.ProfileOptionBuilder.float_operation()
+#                        flops = tf.profiler.profile(sess.graph, run_meta=run_metadata, cmd='op', options=opts)
+#                        print("FLOPS: " + str(flops.total_float_ops))
 
 if __name__ == '__main__':
         main()
