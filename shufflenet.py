@@ -10,10 +10,11 @@ class Shufflenet:
 	#Load pretrained model on initialization. Model downloaded from http://models.tensorpack.com/ImageNetModels/ShuffleNetV1-1x-g=8.npz
 	def __init__(self, model_loc):
 		self.trained_model = np.load(model_loc, encoding = 'latin1')
-		print("Pre-trained npz file loaded")
+		print("Pre-trained npz model loaded")
 #		Uncomment below 2 lines to check model entries (Kernels for conv), (mean, variance, beta and gamma for BN) and (weights and biases) for final FC layer
 #		for x in self.trained_model.files:
 #			print(x + " " + str(self.trained_model[x].shape))
+
 	'''
 	Point-wise group convolution operation.
 	Inputs: 	Activations of shape [N, H, W, C], Stage in format
@@ -51,19 +52,27 @@ class Shufflenet:
 			conv_result = tf.nn.depthwise_conv2d(activations, kernels, [1, stride, stride, 1], padding = padding, data_format = 'NHWC', name='dw_conv_' + stage + '_' + block)
 			return conv_result
 
+	'''
+	Batch Normalization operations
+	Inputs:		Activations of shape [N, H, W, C], stage in format 'stagex',
+			block in format 'blockx', layer in format 'convx' and name to
+			give to the node in tensorboard graph summary.
+	Outputs:	Output activations of BN operation
+	'''
 	def batch_normalization(self, activations, stage, block, layer, name):
 		with tf.name_scope(name):
 			layer_name = str(stage) + '/' + str(block) + '/' if stage is not '' else ''
 			layer_name = layer_name + 'conv1/bn/' if layer == 'conv1' else layer_name + layer+'_bn/'
-#			mean = self.trained_model[layer_name + 'mean/EMA:0']
-#			variance = self.trained_model[layer_name + 'variance/EMA:0']
-#			gamma = self.trained_model[layer_name + 'gamma:0']
-#			beta = self.trained_model[layer_name + 'beta:0']
-#			bn_out = tf.nn.batch_normalization(activations, mean.reshape(1, 1, 1, mean.shape[0]), variance.reshape(1, 1, 1, variance.shape[0]), beta.reshape(1, 1, 1, beta.shape[0]), gamma.reshape(1, 1, 1, gamma.shape[0]), 0.0001, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
 			bn_out = tf.nn.batch_normalization(activations, self.trained_model[layer_name + 'mean/EMA:0'], self.trained_model[layer_name + 'variance/EMA:0'], self.trained_model[layer_name + 'beta:0'], self.trained_model[layer_name + 'gamma:0'], variance_epsilon=0.001, name = 'bn_' + stage + '_' + block + '_' + layer if stage is not '' else 'bn_conv1')
 			return bn_out
 
-	def channel_shuffle(self, activations, num_groups, name='ch_shuffle'):
+	'''
+	Channel Shuffle Operation.
+	Inputs:		Activations of shape [N, H, W, C], num_groups = 8,
+			Name to give to the node in tensorboard graph summary.
+	Outputs		Activations after ch shuffle op.
+	'''
+	def channel_shuffle(self, activations, num_groups = 8, name='ch_shuffle'):
 		with tf.name_scope(name):
 			activations = tf.transpose(activations, perm = [0, 3, 1, 2])
 			in_shape = activations.get_shape().as_list()
