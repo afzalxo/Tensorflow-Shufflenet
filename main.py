@@ -6,7 +6,7 @@ import utils
 
 def main():
 
-        img = utils.load_image('./test_data/32.JPEG')
+        img = utils.load_image('./test_data/34.JPEG')
         model_path = '../ShuffleNetV1-1x-8g.npz'
 
         img = img.reshape((1, 224, 224, 3))

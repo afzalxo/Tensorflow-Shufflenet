@@ -5,4 +5,4 @@ Using pre-trained model from [tensorpack model zoo](http://models.tensorpack.com
 
 ~~TODO: Optimize `self.batch_normalization` since this is taking ~~`~100ms`~~ `~40ms` to compute in later stages.~~
 
-TODO: Current FLOPS at `145.25M`. Check for possibility of optimization to `~140.0M` as statged in the paper. 
+TODO: Current FLOPS at `145.25M`. Check for possibility of optimization to `~140.0M` as stated in the paper. 
